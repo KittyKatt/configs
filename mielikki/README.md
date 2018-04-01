@@ -6,7 +6,7 @@ These are the configs for my main desktop.
 
 ![zsh config](https://u.teknik.io/ywmgO.png)
 
-##Current setup is as follows:
+## Current setup is as follows:
 
 ```
 System:
