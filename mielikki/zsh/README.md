@@ -11,5 +11,4 @@ executing `git submodule update --init --recursive`.
 
 Below is a screenshot of just a little bit of the setup in action.
 
-![zsh config]
-(https://u.teknik.io/ywmgO.png)
+![zsh config](https://u.teknik.io/ywmgO.png)
