@@ -1,0 +1,3614 @@
+!Photons (iterm2)
+urxvt*foreground: #DDCCBB
+!urxvt*background: #0e1112
+urxvt*background: #1A1A1A
+!URxvt*background: #101213
+!urxvt*background: #151515
+!urxvt*color0: #000000
+urxvt*color0: #393939
+urxvt*color1: #c72d41
+urxvt*color2: #85c600
+urxvt*color3: #ffa600
+urxvt*color4: #0099bc
+urxvt*color5: #5b1e35
+urxvt*color6: #446a6b
+urxvt*color7: #4f585d
+urxvt*color8: #2e3537
+urxvt*color9: #ff5d4a
+urxvt*color10: #b3ff1d
+urxvt*color11: #ffaa0f
+urxvt*color12: #5cdede
+urxvt*color13: #be4773
+urxvt*color14: #76b2b3
+urxvt*color15: #85919b
+
+!Odin (iterm2)
+URxvt*foreground: #DDCCBB
+urxvt*background: #1A1A1A
+urxvt*color0: #232728
+urxvt*color8: #626667
+urxvt*color1: #ff0085
+urxvt*color9: #ff5da7
+urxvt*color2: #85c600
+urxvt*color10: #b6ed4a
+urxvt*color3: #ffa600
+urxvt*color11: #fdf368
+urxvt*color4: #48cfe1
+urxvt*color12: #89f2ff
+urxvt*color5: #ac56ff
+urxvt*color13: #ba77ff
+urxvt*color6: #55676b
+urxvt*color14: #98acb1
+urxvt*color7: #d5d6d0
+urxvt*color15: #f9faf4
+
+-------------------------
+
+!lazy1
+! Brown BG
+*.background: #30251D
+
+! Grey BG
+*.background: #151515
+
+!black
+urxvt*color0:     #393939
+urxvt*color8:     #AF875F
+!red
+urxvt*color1:     #BF1E2D
+urxvt*color9:     #E7212A
+!green
+urxvt*color2:     #9DBA3A
+urxvt*color10:    #A9C938
+!yellow
+urxvt*color3:     #F5B915
+urxvt*color11:    #F7D325
+!blue
+urxvt*color4:     #1CA1DB
+urxvt*color12:    #00AFDA
+!magenta
+urxvt*color5:     #652F90
+urxvt*color13:    #894E9F
+!cyan
+urxvt*color6:     #EA7D24
+urxvt*color14:    #F79321
+!white
+urxvt*color7:     #E7E8E9
+urxvt*color15:    #F3F3F4
+
+-------------------------
+
+!lazy2
+URxvt*foreground: #DDCCBB
+URxvt*background: #0e1112
+!URxvt*background: #101213
+!urxvt*background: #151515
+
+!black
+URxvt*color0: #393939
+URxvt*color8: #AF875F
+!red
+URxvt*color1: #BF1E2D
+URxvt*color9: #E7212A
+!green
+URxvt*color2: #9DBA3A
+URxvt*color10: #A9C938
+!yellow
+URxvt*color3: #F5B915
+URxvt*color11: #F7D325
+!blue
+URxvt*color4: #1CA1DB
+URxvt*color12: #00AFDA
+!magenta
+URxvt*color5: #652F90
+URxvt*color13: #894E9F
+!cyan
+Urxvt*color6: #EA7D24
+URxvt*color14: #F79321
+!white
+Urxvt*color7: #E7E8E9
+Urxvt*color15: #F3F3F4
+
+-------------------------
+
+!lazy
+urxvt*color0: #1E2320
+urxvt*color1: #705050
+urxvt*color2: #60b48a
+urxvt*color3: #dfaf8f
+urxvt*color4: #506070
+urxvt*color5: #dc8cc3
+urxvt*color6: #8cd0d3
+urxvt*color7: #dcdccc
+urxvt*color8: #709080
+urxvt*color9: #dca3a3
+urxvt*color10: #c3bf9f
+urxvt*color11: #f0dfaf
+urxvt*color12: #94bff3
+urxvt*color13: #ec93d3
+urxvt*color14: #93e0e3
+urxvt*color15: #ffffff
+
+-------------------------
+
+!Jason Wryan
+URxvt*foreground: #DDCCBB
+URxvt*background: #0e1112
+!black
+urxvt*color0: #333333
+urxvt*color8: #3D3D3D
+!red
+urxvt*color1: #8C4665
+urxvt*color9: #BF4D80
+!green
+urxvt*color2: #287373
+urxvt*color10: #53A6A6
+!yellow
+urxvt*color3: #8B769F
+urxvt*color11: #C4A1E6
+!blue
+urxvt*color4: #395573
+urxvt*color12: #477AB3
+!magenta
+urxvt*color5: #5E468C
+urxvt*color13: #7E62B3
+!cyan
+urxvt*color6: #31658C
+urxvt*color14: #6096BF
+!white
+urxvt*color7: #899CA1
+urxvt*color15: #C0C0C0
+!!urxvt*color7: #383838
+!!urxvt*color15: #404040
+
+-------------------------
+
+!Vizibluez
+urxvt*background:           #000000
+urxvt*foreground:           #666699
+urxvt*cursorColor:          #6699CC
+urxvt*colorBD:              #CCCCFF
+
+urxvt*color0:               #333366
+urxvt*color8:               #333399
+
+urxvt*color1:               #6666CC
+urxvt*color9:               #9999FF
+
+urxvt*color2:               #0099CC
+urxvt*color10:              #00CCFF
+
+urxvt*color3:               #3366CC
+urxvt*color11:              #6699FF
+
+urxvt*color4:               #006699
+urxvt*color12:              #0099CC
+
+urxvt*color5:               #0066FF
+urxvt*color13:              #0099FF
+
+urxvt*color6:               #669999
+urxvt*color14:              #66CCCC
+
+urxvt*color7:               #99CCCC
+urxvt*color15:              #CCFFFF
+
+-------------------------
+
+!jhvid
+urxvt*foreground: #DDCCBB
+urxvt*background: #0e1112
+!URxvt*background: #101213
+!urxvt*background: #151515
+urxvt*color0: #464444
+urxvt*color1: #EF3460
+urxvt*color2: #BDEF34
+urxvt*color3: #EFC334
+urxvt*color4: #34BDEF
+urxvt*color5: #B300FF
+urxvt*color6: #3DD8FF
+urxvt*color7: #FFFFFF
+urxvt*color8: #8a8888
+urxvt*color9: #F25A7D
+urxvt*color10: #DCF692
+urxvt*color11: #F6DF92
+urxvt*color12: #92AAF6
+urxvt*color13: #DF92F6
+urxvt*color14: #5AF2CE
+urxvt*color15: #FFFFFF
+
+-------------------------
+
+! MUZIKA
+urxvt*foreground: #DDCCBB
+urxvt*background: #0e1112
+!URxvt*background: #101213
+!urxvt*background: #151515
+!black
+urxvt*color0:  #454545
+urxvt*color8:  #727272
+!red
+urxvt*color1:  #D44A40
+urxvt*color9:  #D4746A
+!green
+urxvt*color2:  #98CB3C
+urxvt*color10: #AFCB66
+!yellow
+urxvt*color3:  #D4B63C
+urxvt*color11: #D4BE66
+!blue 
+urxvt*color4:  #5A89C4
+urxvt*color12: #847FC4
+!magenta
+urxvt*color5:  #904AC4
+urxvt*color13: #A774C4
+!cyan
+urxvt*color6:  #5ACBBE
+urxvt*color14: #84CBBE
+!white
+urxvt*color7:  #A5A5A5
+urxvt*color15: #C5C5C5
+
+-------------------------
+
+!Other
+URxvt*color0: #333333
+URxvt*color8: #666666
+URxvt*color1: #d15517
+URxvt*color9: #d11723
+URxvt*color2: #36b217
+URxvt*color10: #00d56a
+URxvt*color3: #d1b217
+URxvt*color11: #ffea55
+URxvt*color4: #55aaff
+URxvt*color12: #1793d1
+URxvt*color5: #b217d1
+URxvt*color13: #d11793
+URxvt*color6: #93d1b2
+URxvt*color14: #17d1b2
+URxvt*color7: #eeeeee
+URxvt*color15: #ffffff
+
+-------------------------
+
+!Straight
+*foreground: #ebebeb
+*background: #151515
+
+!black
+*color0: #393939
+*color8: #474747
+!red
+*color1:  #BF1E2D
+*color9:  #E7212A
+!green
+*color2:  #9DBA3A
+*color10: #A9C938
+!yellow
+*color3:  #d0d26b
+*color11: #c8bc45
+!blue
+*color4:  #6d9cbe
+*color12: #d0d0ff
+!magenta
+*color5:  #B7416E
+*color13: #E16A98
+!cyan
+*color6:  #435d75
+*color14: #6e98a4
+!white
+*color7:  #ebebeb
+*color15: #cccccc
+
+-------------------------
+
+! Zenburn
+urxvt*background:  #3f3f3f
+urxvt*foreground:  #dcdccc
+! black + red
+!urxvt*color0:     #3f3f3f
+urxvt*color0:      #1E2320
+urxvt*color1:      #705050
+! green + yellow
+urxvt*color2:      #60b48a
+urxvt*color3:      #dfaf8f
+! blue + purple
+urxvt*color4:      #506070
+urxvt*color5:      #dc8cc3
+! cyan + white
+urxvt*color6:      #8cd0d3
+urxvt*color7:      #dcdccc
+! bright-black + bright-red
+urxvt*color8:      #709080
+urxvt*color9:      #dca3a3
+! bright-green + bright-yellow
+urxvt*color10:     #c3bf9f
+urxvt*color11:     #f0dfaf
+! bright-blue + bright-purple
+urxvt*color12:     #94bff3
+urxvt*color13:     #ec93d3
+! bright-cyan + bright-white
+urxvt*color14:     #93e0e3
+urxvt*color15:     #ffffff
+
+-------------------------
+
+!Some anon
+*background: #151515
+*foreground: #eeeeee
+!*cursorColor: #eeeeee
+!black
+*color0:  #151515
+*color8:  #303030
+!red
+*color1:  #cf3f60
+*color9:  #e84f6e
+!green
+*color2:  #41a1ad
+*color10: #4cafc2
+!yellow
+*color3:  #d5cd84
+!*color3: #6277b0 !bluish yellow
+*color11: #eee49f
+!*color11:#8f95cd !b.y.
+!blue 
+*color4:  #395b9b
+*color12: #5087bb
+!magenta 
+*color5:  #645590
+*color13: #7c6bab
+!cyan
+*color6:  #6096c4
+*color14: #84b3dd
+!white
+*color7:  #9999aa
+*color15: #eeeeee 
+
+-------------------------
+
+!Stylin' Greymon
+URxvt*foreground: #DDCCBB
+URxvt*background: #0e1112
+!black
+urxvt*color0:  #393939
+urxvt*color8:  #474747
+!red
+urxvt*color1:  #C74334
+urxvt*color9:  #FA8275
+!green
+urxvt*color2:  #519F50
+urxvt*color10: #B2D169
+!yellow
+urxvt*color3:  #C99135
+urxvt*color11: #E8BF82
+!blue
+urxvt*color4:  #6289B3
+urxvt*color12: #B7B7E0
+!magenta
+urxvt*color5:  #9F5079
+urxvt*color13: #D69399
+!cyan
+urxvt*color6:  #42968D
+urxvt*color14: #8EC4D4
+!white
+urxvt*color7:  #B2B2B3
+urxvt*color15: #CCCCCC
+
+-------------------------
+
+!Hund
+URxvt*background: #161616
+URxvt.cursorColor: #FDA53C
+
+!black
+*color0:  #222222
+*color8:  #666666
+!red
+*color1:  #E84F4F
+*color9:  #D23D3D
+!green
+*color2:  #B7CE42
+*color10: #BDE077
+!yellow
+*color3:  #FEA63C
+*color11: #FFE863
+!blue
+*color4:  #66AABB
+*color12: #AACCBB
+!magenta
+*color5:  #B7416E
+*color13: #E16A98
+!cyan
+*color6:  #6D878D
+*color14: #42717B
+!white
+*color7:  #DDDDDD
+*color15: #CCCCCC
+
+-------------------------
+
+! by Christian <christian@crshd.cc>
+! http://crshd.cc
+! Dark Background
+*foreground:  #cccccc
+*background:  #151515
+
+! Light Background
+!*foreground:  #444444
+!*background:  #f5f5f5
+
+! Black
+*color0:      #333333
+*color8:      #030303
+! Red
+*color1:      #cb1c13
+*color9:      #ff3a00
+! Green
+*color2:      #afd700
+*color10:     #8ce25d
+! Yellow
+*color3:      #ff8f00
+*color11:     #ffb445
+! Blue
+*color4:      #1165e9
+*color12:     #5496ff
+! Magenta
+*color5:      #ff005f
+*color13:     #ff6767
+! Cyan
+*color6:      #2873a2
+*color14:     #41c2bb
+! White
+*color7:      #fff8a4
+*color15:     #f5e67f
+
+-------------------------
+
+!tjwoosta
+!black
+URxvt*color0:    #353535
+URxvt*color8:    #666666
+!red
+URxvt*color1:    #7b3303
+URxvt*color9:    #804015
+!green
+URxvt*color2:    #556b2f
+URxvt*color10:   #4e6d19
+!yellow
+URxvt*color3:    #a67b07
+URxvt*color11:   #a67b07
+!blue
+URxvt*color4:    #427288
+URxvt*color12:   #6b94a7
+!magenta
+URxvt*color5:    #705b46
+URxvt*color13:   #664a30
+!cyan
+URxvt*color6:    #a7a15e
+URxvt*color14:   #f0e68c
+!white
+URxvt*color7:    #dddddd
+URxvt*color15:   #bcbcbc
+
+-------------------------
+
+!Teh
+*foreground: #696969
+*background: #fffef6
+*color0:  #363636
+*color8:  #424242
+*color1:  #C37561
+*color9:  #D19485
+*color2:  #A0A57E
+*color10: #7f8264
+*color3:  #b58b62
+*color11: #DEBC9C
+*color4:  #1d2b41
+*color12: #98A1B9
+*color5:  #AB716D
+*color13: #b4d2c8
+*color6:  #98B9B1
+*color14: #769293
+*color7:  #9ba0a7
+*color15: #6e7383
+
+-------------------------
+
+!Bleh
+URxvt*background:     #dddac6
+URxvt*foreground:     #8c817e
+URxvt*cursorColor:    #8c817e
+URxvt*colorBD:        #585653
+URxvt*colorUL:        #6c615e
+
+
+!BLACK
+URxvt*color0:         #666666
+URxvt*color8:         #8c847f
+!RED
+URxvt*color1:         #996578
+URxvt*color9:         #bd4b76
+!GREEN
+URxvt*color2:         #889965
+URxvt*color10:        #95b548
+!YELLOW
+URxvt*color3:         #998565
+URxvt*color11:        #bd814b
+!BLUE
+URxvt*color4:         #657a99
+URxvt*color12:        #4c83bf
+!MAGENTA
+URxvt*color5:         #8b6599
+URxvt*color13:        #a04bbd
+!CYAN
+URxvt*color6:         #65998d
+URxvt*color14:        #4dbda8
+!WHITE
+URxvt*color7:         #a5a5a4
+URxvt*color15:        #848484
+
+-------------------------
+
+!Choco
+!Black
+*color0:   #86817e
+*color8:   #86817e
+!Red
+*color1:   #d75756
+*color9:   #a63a3a
+!Green
+*color2:   #688c7d
+*color10:  #688c7d
+!Yelllow
+*color3:   #ffb365
+*color11:  #ffb365
+!Blue
+*color4:   #68778c
+*color12:  #68778c
+!Magenta
+*color5:   #fdb3b2
+*color13:  #8c686a
+!Cyan
+*color6:   #86abd9
+*color14:  #86abd9
+!White
+*color7:   #f7f8f2
+*color15:  #f7f8f2
+
+-------------------------
+
+! file:     .colours/new                           
+! author:   jason ryan - http://jasonwryan.com/    
+
+!! jwr dark
+!black
+ *color0:  #333333
+ *color8:  #3D3D3D
+!red
+ *color1:  #8C4665
+ *color9:  #BF4D80
+!green
+ *color2:  #287373
+ *color10: #53A6A6
+!yellow
+ *color3:  #8B769F
+ *color11: #C4A1E6
+!blue
+ *color4:  #395573
+ *color12: #477AB3
+!magenta
+ *color5:  #5E468C
+ *color13: #7E62B3
+!cyan
+ *color6:  #31658C
+ *color14: #6096BF
+!white
+ *color7:  #899CA1
+ *color15: #C0C0C0
+
+-------------------------
+
+!!Decibel Mute
+*background: #000000
+*foreground: #bfbdc0
+
+*color0:  #000000
+*color1:  #8a110e
+*color2:  #669f3d
+*color3:  #b3751e
+*color4:  #493d9f
+*color5:  #9216a3
+*color6:  #198a9c
+*color7:  #bfbdc0
+
+*color8:  #686773
+*color9:  #fc5166
+*color10: #63ff54
+*color11: #ffd75c
+*color12: #766eff
+*color13: #e151ff
+*color14: #57ffec
+*color15: #ffffff
+
+-------------------------
+
+!! jellybeans colors
+! 8 8 8
+!*background: #080808
+*background: #1A1A1A
+! 128 128 128
+*foreground: #808080
+! black
+! 26 26 26
+*color0:  #1a1a1a
+! 64 64 64
+*color8:  #404040
+! red
+! 215 95 95
+*color1:  #d75f5f
+! 234 132 132
+*color9:  #EA8484
+! green
+! 135 175 95
+*color2:  #87af5f
+! 199 240 159
+*color10: #C7F09F
+! yellow
+! 255 175 95
+*color3:  #ffaf5f
+! 255 204 154
+*color11: #FFCC9A
+! blue
+! 135 175 215
+*color4:  #87afd7
+! 165 202 239
+*color12: #a5caef
+! magenta
+! 135 135 175
+*color5:  #8787af
+! 166 166 222
+*color13: #A6A6DE
+! cyan
+! 95 135 135
+*color6:  #5f8787
+! 105 178 178
+*color14: #69b2b2
+! white
+! 128 128 128
+*color7:  #808080
+! 215 215 215
+*color15: #d7d7d7
+
+-------------------------
+
+!Dotshare
+*foreground:  #D7D0C7
+*background:  #151515
+!*background: #1F1F1F
+
+!black
+!*color0:    #AF875F
+!*color8:    #AF875F
+*color0:     #303030
+*color8:     #404040
+!red
+*color1:     #E84F4F
+*color9:     #D23D3D
+!green
+*color2:     #B8D68C
+*color10:    #A0CF5D
+!yellow
+*color3:     #E1AA5D
+*color11:    #F39D21
+!blue
+*color4:     #7DC1CF
+*color12:    #4E9FB1
+!magenta
+*color5:     #9B64FB
+*color13:    #8542FF
+!cyan
+*color6:     #6D878D
+*color14:    #42717B
+!white
+*color7:     #dddddd
+*color15:    #dddddd
+
+-------------------------
+
+!Get Fresh
+URxvt*borderColor:        #151515
+URxvt*colorBD:            #ffffff
+URxvt*cursorColor:        #ff8939
+URxvt*cursorColor2:       #151515
+*foreground: #DDCCBB
+! Brown BG
+!*background: #30251D
+! Grey BG
+*background: #202020
+
+!black
+*color0:     #393939
+*color8:     #AF875F
+!red
+*color1:     #BF1E2D
+*color9:     #E7212A
+!green
+*color2:     #9DBA3A
+*color10:    #A9C938
+!yellow
+*color3:     #F5B915
+*color11:    #F7D325
+!blue
+*color4:     #1CA1DB
+*color12:    #00AFDA
+!magenta
+*color5:     #652F90
+*color13:    #894E9F
+!cyan
+*color6:     #EA7D24
+*color14:    #F79321
+!white
+*color7:     #E7E8E9
+*color15:    #F3F3F4
+
+-------------------------
+
+!Jelly
+*background: #151515
+*foreground: #cacaca
+!black
+*color0:  #000000
+*color8:  #505050
+!red
+*color1:  #b04020
+*color9:  #dd4010
+!green
+*color2:  #afd700
+*color10: #daff30
+!yellow
+*color3:  #f7cf0a
+*color11: #fce70d
+!blue
+*color4:  #3060aa
+*color12: #6099dd
+!magenta
+*color5:  #d6156c
+*color13: #fe4365
+!cyan
+*color6:  #a0c2de
+*color14: #c9dee8
+!white
+*color7:  #cccccc
+*color15: #ffffff
+
+-------------------------
+
+! jwr low contrast
+
+!black
+*color0:  #222222
+*color8:  #454545
+!red
+*color1:  #9E5641
+*color9:  #CC896D
+!green
+*color2:  #6C7E55
+*color10: #7DB37D
+!yellow
+*color3:  #CAAF2B
+*color11: #BFB556
+!blue 
+*color4:  #7C9AA6
+*color12: #8FADBF
+!magenta
+*color5:  #956D9D
+*color13: #C18FCB
+!cyan
+*color6:  #4c8ea1
+*color14: #6bc1d0
+!white
+*color7:  #808080
+*color15: #cdcdcd
+
+-------------------------
+
+!PureData
+*foreground: #EEE9E9
+*background: #353535
+!black
+*color0:  #848484
+*color8:  #828282
+!red	
+*color1:  #C67171
+*color9:  #CD5555
+!green
+*color2:  #BCEE68
+*color10: #C0FF3E
+!yellow 
+*color3:  #FFFACD
+*color11: #FFFFE0
+!blue  
+*color4:  #C1CDC1
+*color12: #C1CDC1
+!magenta
+*color5:  #BC8F8F
+*color13: #CD9B9B
+!cyan
+*color6:  #D1EEEE
+*color14: #E0FFFF
+!white 
+*color7:  #EAEAEA
+*color15: #F5FFFA
+
+-------------------------
+
+!Milomouse
+*background: #060606
+*foreground: #a9a6af
+ !black
+*color0:  #050505
+*color8:  #555753
+ !red
+*color1:  #9c8093
+*color9:  #ffadcc
+ !green
+*color2:  #7ac4ad
+*color10: #9ed7ca
+ !yellow
+*color3:  #adaa8d
+*color11: #c4c497
+ !blue
+*color4:  #3f4f60
+*color12: #98a7b6
+ !magenta
+*color5:  #a488d9
+*color13: #b7a7bc
+ !cyan
+*color6:  #8d9fa6
+*color14: #b8ddea
+ !white
+*color7:  #665c64
+*color15: #787a76
+
+-------------------------
+
+! Inspired/based on Railscasts Textmate theme
+! http://railscasts.com
+
+*foreground:              #dddddd
+*background:              #151515
+
+!black
+*color0:                  #393939
+*color8:                  #474747
+!red
+*color1:                  #da4939
+*color9:                  #ff6c5c
+!green
+*color2:                  #519f50
+*color10:                 #a5c261
+!yellow
+*color3:                  #cc7833
+*color11:	          #bc9458
+!blue
+*color4:                  #6d9cbe
+*color12:                 #d0d0ff
+!magenta
+*color5:                  #9f5079
+*color13:                 #a761c2
+!cyan
+*color6:                  #435d75
+*color14:                 #6e98a4
+!white
+*color7:                  #dddddd
+*color15:                 #dddddd
+
+!URxvt-specific stuff
+URxvt*borderColor:        #151515
+URxvt*colorBD:            #ffffff
+URxvt*colorIT:            #a761c2
+URxvt*colorUL:            #6d9cbe
+URxvt*underlineColor:     #333333
+URxvt*highlightColor:     #a761c2
+URxvt*highlightTextColor: #151515
+URxvt*cursorColor:        #ff8939
+URxvt*cursorColor2:       #151515
+
+-------------------------
+
+!Sen
+*foreground:     #DDDDDD
+*background:     #121212
+!black
+*color0:         #353535
+*color8:         #666666
+!red
+*color1:         #AE4747
+*color9:         #EE6363
+!green
+*color2:         #556B2F
+*color10:        #9ACD32
+!brown/yellow
+*color3:         #DAA520
+*color11:        #FFC125
+!blue
+*color4:         #6F99B4
+*color12:        #7C96B0
+!magenta
+*color5:         #8B7B8B
+*color13:        #D8BFD8
+!cyan
+*color6:         #A7A15E
+*color14:        #F0E68C
+!white
+*color7:         #DDDDDD
+*color15:        #FFFFFF
+
+-------------------------
+
+
+!file:    .colours/sicp
+!author:  marcus lauver <sicpsnake@gmail.com>
+
+
+*background:      #171717
+*foreground:      #ffffff
+
+! Black
+*color0:          #292929
+*color8:          #3d3d3d
+! Red 
+*color1:          #DE6951
+*color9:          #c56a47
+! Green
+*color2:          #bcda55
+*color10:         #9dbf60
+! Yellow 
+*color3:          #E2A564
+*color11:         #EC8A25
+! Blue 
+*color4:          #2187F6
+*color12:         #5495DC
+! Magenta 
+*color5:          #875C8D
+*color13:         #E41F66
+! Cyan 
+*color6:          #4390B1
+*color14:         #276CC2
+! White
+*color7:          #D2D2D2
+*color15:         #ffffff
+
+-------------------------
+
+!Fresh
+*foreground: #DDCCBB
+! Brown BG
+!*background: #30251D
+! Grey BG
+*background: #151515
+
+!black
+*color0:     #393939
+*color8:     #AF875F
+!red
+*color1:     #BF1E2D
+*color9:     #E7212A
+!green
+*color2:     #9DBA3A
+*color10:    #A9C938
+!yellow
+*color3:     #F5B915
+*color11:    #F7D325
+!blue
+*color4:     #1CA1DB
+*color12:    #00AFDA
+!magenta
+*color5:     #652F90
+*color13:    #894E9F
+!cyan
+*color6:     #EA7D24
+*color14:    #F79321
+!white
+*color7:     #E7E8E9
+*color15:    #F3F3F4
+
+-------------------------
+
+!uzbl
+*background: #151515
+*foreground: #DDDDDD
+
+!black
+*color0:     #353535
+*color8:     #666666
+!red
+*color1:     #D81860
+*color9:     #F00060
+!green
+*color2:     #B7CE42
+*color10:    #BDE077
+!brown/yellow
+*color3:     #FEA63C
+*color11:    #FFE863
+!blue
+*color4:     #6F99B4
+*color12:    #7C96B0
+!magenta
+*color5:     #8B7B8B
+*color13:    #D8BFD8
+!cyan
+*color6:     #A7A15E
+*color14:    #F0E68C
+!white
+*color7:     #DDDDDD
+*color15:    #FFFFFF
+
+-------------------------
+
+!XNU
+*foreground: #C7C7C7
+*background: #151515
+!black
+*color0:     #393939
+*color8:     #474747
+!red
+*color1:     #FF9F95
+*color9:     #FF8D80
+!green
+*color2:     #E2FFC7
+*color10:    #DBFFB3
+!yellow
+*color3:     #FFFFB9
+*color11:    #FFBE64
+!blue
+*color4:     #A8CEEA
+*color12:    #7EB6FF
+!magenta
+*color5:     #E2B5CC
+*color13:    #E296FF
+!cyan
+*color6:     #C2EFFF
+*color14:    #9CE9FF
+!white
+*color7:     #dddddd
+*color15:    #dddddd
+
+-------------------------
+
+!tjwoosta
+!black
+*color0:           #353535
+*color8:           #666666
+!red
+*color1:           #7b3303
+*color9:           #804015
+!green
+*color2:           #556B2F
+*color10:          #4e6d19
+!brown/yellow
+*color3:           #a67b07
+*color11:          #a67b07
+!blue
+*color4:           #427288
+*color12:          #6b94a7
+!magenta
+*color5:           #705b46
+*color13:          #664a30
+!cyan
+*color6:           #A7A15E
+*color14:          #F0E68C
+!white
+*color7:           #DDDDDD
+*color15:          #bcbcbc
+
+-------------------------
+
+!EvilRoot
+*background:  rgb:00/00/00
+!*foreground:  rgb:7f/7f/7f
+*foreground: #f8f8f2
+
+! Black
+!*color0:      #404040
+!*color8:      #505050
+*color0:       #1B1D1E
+*color8:       #505354
+! Red
+*color1:       #ff005f
+*color9:       #ff6767
+! Green
+*color2:       #afd700
+*color10:      #8ce25d
+! Yellow
+*color3:       #ff8f00
+*color11:      #ffb445
+! Blue
+*color4:       #1165e9
+*color12:      #5496ff
+! Magenta
+!*color5:      #875c8d
+!*color13:     #e41f66
+! new one
+!*color5:      #9f5079
+!*color13:     #a761c2
+*color5:       #8C54FE
+*color13:      #9E6FFE
+! Cyan
+!*color6:      #2873a2
+!*color14:     #41c2bb
+*color6:       #4c8ea1
+*color14:      #6bc1d0
+! White
+*color7:       #d2d2d2
+*color15:      #ffffff
+
+-------------------------
+
+!ObliviousGmnColors (Lime)
+*foreground: #ebebeb
+*background: #151515
+!black
+*color0:  #2E1F1F
+*color8:  #422D2D
+!red
+*color1:  #AA0E50
+*color9:  #BE0E50
+!green
+*color2:  #1DCC9F
+*color10: #1FD9A9
+!yellow 
+*color3:  #27C282
+*color11: #2CDB93
+!blue
+*color4:  #7182A8
+*color12: #8194BF
+!magenta
+*color5:  #A673A6
+*color13: #7F5AA1
+!cyan
+*color6:  #6DA3A1
+*color14: #669997
+!white
+*color7:  #B7BBBD
+*color15: #D9D9D9
+
+-------------------------
+
+!Starlight
+*foreground: #ebebeb
+*background: #151515
+
+!black
+*color0:  #393939
+*color8:  #474747
+!red
+*color1:  #BF1E2D
+*color9:  #E7212A
+!green
+*color2:  #9DBA3A
+*color10: #A9C938
+!yellow
+*color3:  #d0d26b
+*color11: #c8bc45
+!blue
+*color4:  #6d9cbe
+*color12: #d0d0ff
+!magenta
+*color5:  #B7416E
+*color13: #E16A98
+!cyan
+*color6:  #435d75
+*color14: #6e98a4
+!white
+*color7:  #ebebeb
+*color15: #cccccc
+
+-------------------------
+
+!Astromouse
+*color0:  #1c1c1c
+*color8:  #3d3a3a
+*color1:  #d770af
+*color9:  #d28abf
+*color2 : #9acc79
+*color10: #8fb676
+*color3:  #d0d26b
+*color11: #c8bc45
+*color4 : #77b6c5
+*color12: #8fa7b9
+*color5:  #a488d9
+*color13: #bd89de
+*color6:  #7fcab3
+*color14: #6ec2a8
+*color7:  #8d8d8d
+*color15: #dad3d3
+
+-------------------------
+
+!Belge
+!black
+*color0:     #252525
+*color8:     #454545
+!red
+*color1:     #EF6769
+*color9:     #FC7CA5
+!green
+*color2:     #A6E22E
+*color10:    #B6E354
+!yellow
+*color3:     #FD971F
+*color11:    #FD971F
+!blue
+*color4:     #6495ED
+*color12:    #87CEEB
+!magenta
+*color5:     #DEB887
+*color13:    #996600
+!cyan
+*color6:     #B0C4DE
+*color14:    #87CEEB
+!white
+*color7:     #DBDCDC
+*color15:    #FDFDFD
+
+-------------------------
+
+!Bitmute
+*color0:  #282828
+*color8:  #494949
+!red
+*color1:  #b76969
+*color9:  #b87e7e
+!green
+*color2:  #719d72
+*color10: #839d84
+!yellow
+*color3:  #909858
+*color11: #919864
+!blue
+*color4:  #68668f
+*color12: #73718f
+!magenta
+*color5:  #966894
+*color13: #987397
+!cyan
+*color6:  #688891
+*color14: #758c93
+!white
+*color7:  #8e8e8e
+*color15: #aeaeae
+
+-------------------------
+
+!Bleh-1
+!BLACK
+URxvt*color0:         #666666
+URxvt*color8:         #8c847f
+!RED
+URxvt*color1:         #996578
+URxvt*color9:         #bd4b76
+!GREEN
+URxvt*color2:         #889965
+URxvt*color10:        #95b548
+!YELLOW
+URxvt*color3:         #998565
+URxvt*color11:        #bd814b
+!BLUE
+URxvt*color4:         #657a99
+URxvt*color12:        #4c83bf
+!MAGENTA
+URxvt*color5:         #8b6599
+URxvt*color13:        #a04bbd
+!CYAN
+URxvt*color6:         #65998d
+URxvt*color14:        #4dbda8
+!WHITE
+URxvt*color7:         #a5a5a4
+URxvt*color15:        #848484
+
+-------------------------
+
+!Cloud
+!black
+*color0:  #222827
+*color8:  #5D6F74
+!red
+*color1:  #D5A8E3
+*color9:  #CD749C
+!green
+*color2:  #9C75DD
+*color10: #63B0B0
+!yellow
+*color3:  #9898AE
+*color11: #C0C0DD
+!blue
+*color4:  #654A96
+*color12: #5786BC
+!magenta
+*color5:  #625566
+*color13: #3F3442
+!cyan
+*color6:  #A9D1DF
+*color14: #849DA2
+!white
+*color7:  #E6EBE5
+*color15: #D9D6CF
+
+-------------------------
+
+!Colorful
+URxvt*foreground: #DDCCBB
+URxvt*background: #0e1112
+!URxvt*background: #101213
+!urxvt*background: #151515
+
+*color0: #151515
+*color8: #696969
+*color1: #FF8EAF
+*color9: #ED4C7A
+*color2:  #A6E25F
+*color10: #A6E179
+*color3: #F8E578
+*color11: #FFDF6B
+*color4: #A6E2F0
+*color12: #79D2FF
+*color5: #E85B92
+*color13: #BB5D79
+*color6: #5F868F
+*color14: #87A8AF
+*color7: #D5F1F2
+*color15: #E2F1F6
+
+-------------------------
+
+!Deafened
+*color0:           #3d3e3d
+*color8:           #5a5b5c
+*color1:           #755a5b
+*color9:           #a37679
+*color2:           #68755a
+*color10:          #87a376
+*color3:           #756e5a
+*color11:          #a39b76
+*color4:           #5b6976
+*color12:          #758ba3
+*color5:           #755b76
+*color13:          #9f76a3
+*color6:           #465457
+*color14:          #899ca1
+*color7:           #ccccc6
+*color15:          #f8f8f2
+
+-------------------------
+
+!Epiphany
+!black
+urxvt*color8:           #656565
+urxvt*color0:           #565656
+!red
+urxvt*color1:           #AC4F4F
+urxvt*color9:           #E85555
+!green
+urxvt*color2:           #88AB77
+urxvt*color10:          #8CCD6C
+!yellow
+urxvt*color3:           #D0D9AD
+urxvt*color11:          #C5D67D
+!blue
+urxvt*color4:           #677088
+urxvt*color12:          #647396
+!magenta
+urxvt*color5:           #CDCDB4
+urxvt*color13:          #CDB4C9
+!cyan
+urxvt*color6:           #445362
+urxvt*color14:          #505B6C
+!white
+urxvt*color7:           #FFFFFF
+urxvt*color15:          #C0C0C0
+
+-------------------------
+
+!Erebus
+! black / dark gray
+URxvt*color0: #757575
+URxvt*color8: #B8B8B8
+! red
+URxvt*color1: #FF5F5F
+URxvt*color9: #D78787
+! green
+URxvt*color2: #DE8A36
+URxvt*color10: #FF9F6F
+! yellow
+URxvt*color3: #D78787
+URxvt*color11: #FF5F5F
+! blue
+URxvt*color4: #AF5FD7
+URxvt*color12: #DEA3E5
+! magenta
+URxvt*color5: #FF87D7
+URxvt*color13: #D7AFAF
+! cyan
+URxvt*color6: #DEA3E5
+URxvt*color14: #AF5FD7
+! light gray / white
+URxvt*color7: #B8B8B8
+URxvt*color15: #757575
+
+-------------------------
+
+!Fishbone
+!black
+*color0:#293b3b
+*color8:#344040
+!red
+*color1:#bf5357
+*color9:#bf6367
+!green
+*color2:#41a551
+*color10:#51a55f
+!yellow
+*color3:#aea64f
+*color11:#aea75d
+!blue
+*color4:#416ea5
+*color12:#5177a5
+!magenta
+*color5:#bf6053 
+*color13:#bf6e63
+!cyan
+*color6:#714da5
+*color14:#7859a5
+!white
+*color7:#876868
+*color15:#876f6f
+
+-------------------------
+
+!Hybrid
+!black
+*color0: #393939
+*color8: #474747
+
+!red
+*color1: #da4939
+*color9: #ff6c5c
+
+!green
+*color2 : #9acc79
+*color10: #8fb676
+
+!yellow
+*color3:  #d0d26b
+*color11: #c8bc45
+
+!blue
+*color4: #6d9cbe
+*color12: #d0d0ff
+
+!magenta
+*color5: #9f5079
+*color13: #a761c2
+
+!cyan
+*color6: #435d75
+*color14: #6e98a4
+
+!white
+*color7: #c2c2c2
+*color15: #c2c2c2
+
+-------------------------
+
+!BlackII
+!black
+*color0:            #393939
+*color8:            #474747
+!red
+*color1:            #da4939
+*color9:            #ff6c5c
+!green
+*color2:            #519f50
+*color10:           #a5c261
+!yellow
+*color3:            #cc7833
+*color11:           #bc9458
+!blue
+*color4:            #6d9cbe
+*color12:           #d0d0ff
+!magenta
+*color5:            #9f5079
+*color13:           #a761c2
+!cyan
+*color6:            #435d75
+*color14:           #6e98a4
+!white
+*color7:            #dddddd
+*color15:           #dddddd
+
+-------------------------
+
+!Insignifacto
+!Black
+URxvt*color0:           #3d3e3d
+URxvt*color8:           #5a5b5c
+!Red
+URxvt*color1:           #755a5b
+URxvt*color9:           #a37679
+!Green
+URxvt*color2:           #68755a
+URxvt*color10:          #87a376
+!Yellow
+URxvt*color3:           #756e5a
+URxvt*color11:          #a39b76
+!Blue
+URxvt*color4:           #5b6976
+URxvt*color12:          #758ba3
+!Magenta
+URxvt*color5:           #755b76
+URxvt*color13:          #9f76a3
+!Cyan
+URxvt*color6:           #5b7674
+URxvt*color14:          #75a3a1
+!White
+URxvt*color7:           #808080
+URxvt*color15:          #aeafb0
+
+-------------------------
+
+! Mikado colors
+!black
+*color0:    #322a2c
+*color8:    #46423b
+!red
+*color1:    #a04363
+*color9:    #ae837a
+!green
+*color2:    #9b9329
+*color10:   #b4aa30
+!yellow
+!*color3:    #c77920
+*color3:    #bf7a29
+*color11:   #c7a551
+!blue
+*color4:    #6a8c8c
+*color12:   #74999e
+!magenta
+*color5:    #856774
+*color13:   #9c818e
+!cyan
+*color6:    #757978
+*color14:   #9fa590
+!white
+*color7:    #bcbcaf
+*color15:   #c1c4bc
+
+-------------------------
+
+! Mikazuki
+!Kuro
+*color0:#2a1d17
+*color8:#4f362b
+!aka
+*color1:#da1657
+*color9:#da4375
+!midori
+*color2:#3ea250
+*color10:#6cb87a
+!kiiro
+*color3:#e3d33d
+*color11:#e3da84
+!ao
+*color4:#3ea290
+*color12:#8ca8a3
+!momoiro
+*color5:#ff850d
+*color13:#ffa64f
+!mizuiro
+*color6:#8c16da
+*color14:#a167c7
+!shiro
+*color7:#e9e9e9
+*color15:#fdfdfd
+
+-------------------------
+
+!Nucolors
+!black
+*color0:     #393939
+*color8:     #474747
+!red
+*color1:     #FF9F95
+*color9:     #FF8D80
+!green
+*color2:     #E2FFC7
+*color10:    #DBFFB3
+!yellow
+*color3:     #FFFFB9
+*color11:    #FFBE64
+!blue
+*color4:     #A8CEEA
+*color12:    #7EB6FF
+!magenta
+*color5:     #E2B5CC
+*color13:    #E296FF
+!cyan
+*color6:     #C2EFFF
+*color14:    #9CE9FF
+!white
+*color7:     #dddddd
+*color15:    #dddddd
+
+-------------------------
+
+!Nudge
+!BLACK
+URxvt*color0:         #658280
+URxvt*color8:         #8ca8a6
+
+!!RED
+URxvt*color1:         #822f5d
+URxvt*color9:         #a24b76
+
+!!GREEN
+URxvt*color2:         #184a31
+URxvt*color10:        #28634d
+
+!!YELLOW
+URxvt*color3:         #9d4500
+URxvt*color11:        #9d5823
+
+!!BLUE
+URxvt*color4:         #304465
+URxvt*color12:        #415c77
+
+!!MAGENTA
+URxvt*color5:         #330801
+URxvt*color13:        #532706
+
+!CYAN
+URxvt*color6:         #175552
+URxvt*color14:        #3a6868
+
+!WHITE
+URxvt*color7:         #110005
+URxvt*color15:        #330801
+
+-------------------------
+
+!Orangish
+!black
+*color0:  #251f1f
+*color8:  #5e5e5e
+!red
+*color1:  #eb4509
+*color9:  #eb4509
+!green
+*color2:  #94e76b
+*color10: #95e76b
+!yellow
+*color3:  #ffac18
+*color11: #ffac18
+!blue
+*color4:  #46aede
+*color12: #46aede
+!magenta
+*color5:  #e32c57
+*color13: #e32c57
+!cyan
+*color6:  #d6dbac
+*color14: #d6dbac
+!white
+*color7:  #efefef
+*color15: #efefef
+
+-------------------------
+
+! Parker Brothers colors
+!black
+*color0:    #322a2c
+*color8:    #46423b
+!red
+*color1:    #79220E
+*color9:    #AA261F
+!green
+*color2:    #344B1B
+*color10:   #76550F
+!yellow
+!*color3:    #c77920
+*color3:    #B45B00
+*color11:   #B57F02
+!blue
+*color4:    #434045
+*color12:   #908862
+!magenta
+*color5:    #5C1E25
+*color13:   #624A35
+!cyan
+*color6:    #394745
+*color14:   #393E38
+!white
+*color7:    #AE8842
+*color15:   #A59058
+
+-------------------------
+
+!Pulp
+!Black
+*color0:    #86817e
+*color8:    #86817e
+!Red
+*color1:    #d75756
+*color9:    #a63a3a
+!Green
+*color2:    #688c7d
+*color10:   #688c7d
+!Yelllow
+*color3:    #ffb365
+*color11:   #ffb365
+!Blue
+*color4:    #68778c
+*color12:   #68778c
+!Magenta
+*color5:    #fdb3b2
+*color13:   #8c686a
+!Cyan
+*color6:    #86abd9
+*color14:   #86abd9
+!White
+*color7:    #f7f8f2
+*color15:   #f7f8f2
+
+-------------------------
+
+!Rasi
+!black
+*color0:     #1B1D1E
+*color8:     #505354
+!red
+*color1:     #F92672
+*color9:     #FF5995
+!green
+*color2:     #82B414
+*color10:    #B6E354
+!yellow
+*color3:     #FD971F
+*color11:    #FEED6C
+!blue
+*color4:     #4E82AA
+*color12:    #0C73C2
+!magenta
+*color5:     #8C54FE
+*color13:    #9E6FFE
+!cyan
+*color6:     #465457
+*color14:    #899CA1
+!white
+*color7:     #CCCCC6
+*color15:    #F8F8F2
+
+-------------------------
+
+!SColors
+!black
+*color0:    #252525
+*color8:    #454545
+!red
+*color1:     #FF9F95
+*color9:     #FF8D80
+!green
+*color2:    #A6E22E
+*color10:   #B6E354
+!yellow
+*color3:    #FD971F
+*color11:   #FD971F
+!blue
+*color4:    #435e87
+*color12:   #587aa4
+!magenta
+*color5:    #789ec6
+*color13:   #46a4ff
+!cyan
+*color6:    #5E7175
+*color14:   #A3BABF
+!white
+*color7:    #DBDCDC
+*color15:  #FDFDFD
+
+-------------------------
+
+!Shic
+!black
+URxvt*color0:  #494949
+URxvt*color8:  #484848
+!red
+URxvt*color1:  #B9716E
+URxvt*color9:  #8F5A58
+!green
+URxvt*color2:  #588F7A
+URxvt*color10: #326F58
+!yellow
+URxvt*color3:  #AAA857
+URxvt*color11: #C7C575
+!blue
+URxvt*color4:  #A0C3C0
+URxvt*color12: #507F7C
+!magenta
+URxvt*color5:  #735E74
+URxvt*color13: #A387A6
+!cyan
+URxvt*color6:  #695935
+URxvt*color14: #927C4B
+!white
+URxvt*color7:  #B1B1B1
+URxvt*color15: #C7C7C7
+
+-------------------------
+
+!Splurge
+!Black
+URxvt*color0:  #4a4b4a
+URxvt*color8:  #696969
+
+!Red
+URxvt*color1:  #D7699A
+URxvt*color9:  #F5A2B5
+
+!Green
+URxvt*color2:  #80D468
+URxvt*color10: #A3F2A0
+
+!Yellow
+URxvt*color3:  #D7A169
+URxvt*color11: #F5CDA2
+
+!Blue
+URxvt*color4:  #6985D7
+URxvt*color12: #A2C1F5
+
+!Magenta
+URxvt*color5:  #C86AD4
+URxvt*color13: #D2A2F5
+
+!Cyan
+URxvt*color6:  #6FCCD1
+URxvt*color14: #A0E9F2
+
+!White
+URxvt*color7:  #DBDCDC
+URxvt*color15: #FDFDFD
+
+-------------------------
+
+! swayr color scheme
+urxvt*background: #1c1709
+urxvt*foreground: #c2b9a1
+
+urxvt*color0:     #1c1709
+urxvt*color8:     #4f4939
+urxvt*color1:     #8e4317
+urxvt*color9:     #f07935
+urxvt*color2:     #787200
+urxvt*color10:    #d9d138
+urxvt*color3:     #945c00
+urxvt*color11:    #ffab26
+urxvt*color4:     #315094
+urxvt*color12:    #8aa9ed
+urxvt*color5:     #5c2e40
+urxvt*color13:    #ff8cb8
+urxvt*color6:     #00617d
+urxvt*color14:    #43bfe0
+urxvt*color7:     #c2b9a1
+urxvt*color15:    #f2e8c9
+
+-------------------------
+
+!! tangoesque scheme
+!*background: #111111
+!*foreground: #babdb6
+! Black (not tango) + DarkGrey
+*color0:  #121212
+*color8:  #555753
+! DarkRed + Red
+*color1:  #cb2111
+*color9:  #ff8d8d
+! DarkGreen + Green
+*color2:  #93d44f
+*color10: #c8e7a8
+! DarkYellow + Yellow
+*color3:  #eab93d
+!*color11: #ffc123
+*color11: #feed6c
+! DarkBlue + Blue
+!*color4:  #204a87
+*color4: #2255FF
+*color12: #3465a4
+! DarkMangenta + Mangenta
+*color5:  #ce5c00
+*color13: #f57900
+!DarkCyan + Cyan (both not tango)
+*color6:  #89b6e2
+*color14: #46a4ff
+! LightGrey + White
+*color7:  #cccccc
+*color15: #ffffff
+
+-------------------------
+
+!Tangoesque
+*background:  #000000
+*foreground:  #aaaaaa
+! Black
+*color0:      #202020
+*color8:      #606060
+! Red
+*color1:      #ff6565
+*color9:      #ff8d8d
+! Green
+*color2:      #93d44f
+*color10:     #c8e7a8
+! Yellow
+*color3:      #eab93d
+*color11:     #ffc123
+! Blue
+*color4:      #204a87
+*color12:     #3465a4
+! Mangenta
+*color5:      #ce5c00
+*color13:     #f57900
+! Cyan 
+*color6:      #89b6e2
+*color14:     #46a4ff
+! White
+*color7:      #cccccc
+*color15:     #ffffff
+
+-------------------------
+
+!Theme2
+!black
+URxvt*color0: #191919
+URxvt*color8: #484848
+!red
+URxvt*color1: #EB3D51
+URxvt*color9: #BE6262
+!green
+URxvt*color2:  #66B61A
+URxvt*color10: #4B8A10
+!yellow
+URxvt*color3:  #D98E1D
+URxvt*color11: #E5D95E
+!blue
+URxvt*color4:  #23FFA8
+URxvt*color12: #23AAFF
+!magenta
+URxvt*color5:  #FF00DA
+URxvt*color13: #AB005B
+!cyan
+URxvt*color6:  #68A783
+URxvt*color14: #BBCD81
+!white
+URxvt*color7:  #EAEAEA
+URxvt*color15: #BBBBBB
+
+-------------------------
+
+!Visibone
+!BLK
+URxvt*color0:   #666666
+URxvt*color8:   #999999
+!RED
+URxvt*color1:   #CC6666
+URxvt*color9:   #FF9999
+!GRN
+URxvt*color2:   #66CC99
+URxvt*color10:  #99FFCC
+!YEL
+URxvt*color3:   #CC9966
+URxvt*color11:  #FFCC99
+!BLE
+URxvt*color4:   #6699CC
+URxvt*color12:  #99CCFF
+!MAG
+URxvt*color5:   #CC6699
+URxvt*color13:  #FF99CC
+!CYN
+URxvt*color6:   #66CCCC
+URxvt*color14:  #99FFFF
+!WHT
+URxvt*color7:   #CCCCCC
+URxvt*color15:  #FFFFFF
+
+-------------------------
+-------------------------
+
+!!Fixes
+!Better defaults
+shiva.color0: #030303
+shiva.color1: #ff4747
+shiva.color2: #2b4626
+shiva.color3: #ff8f00
+shiva.color4: #1165e9
+shiva.color5: #aef7af
+shiva.color6: #cb1c13
+shiva.color7: #ffffff
+shiva.color8: #1c1c1c
+shiva.color9: #ff6767
+shiva.color10: #48314a
+shiva.color11: #df1ed1
+shiva.color12: #5496ff
+shiva.color13: #b50077
+shiva.color14: #6be603
+shiva.color15: #dedede
+shiva.color16: #1a91a9
+shiva.color17: #1b31b3
+shiva.color18: #1bd1bd
+shiva.color19: #1c71c7
+shiva.color20: #1d11d1
+shiva.color21: #1db1db
+shiva.color22: #1e51e5
+shiva.color23: #1ef1ef
+shiva.color24: #1f91f9
+shiva.color25: #203203
+shiva.color26: #20d20d
+shiva.color27: #217217
+shiva.color28: #221221
+shiva.color29: #22b22b
+shiva.color30: #235235
+shiva.color31: #23f23f
+shiva.color32: #249249
+shiva.color33: #253253
+shiva.color34: #25d25d
+shiva.color35: #267267
+shiva.color36: #271271
+shiva.color37: #27b27b
+shiva.color38: #285285
+shiva.color39: #28f28f
+shiva.color40: #299299
+shiva.color41: #2a32a3
+shiva.color42: #2ad2ad
+shiva.color43: #2b72b7
+shiva.color44: #2c12c1
+shiva.color45: #2cb2cb
+shiva.color46: #2d52d5
+shiva.color47: #2df2df
+shiva.color48: #2e92e9
+shiva.color49: #2f32f3
+shiva.color50: #2fd2fd
+shiva.color51: #307307
+shiva.color52: #311311
+shiva.color53: #31b31b
+shiva.color54: #325325
+shiva.color55: #32f32f
+shiva.color56: #339339
+shiva.color57: #343343
+shiva.color58: #34d34d
+shiva.color59: #357357
+shiva.color60: #361361
+shiva.color61: #36b36b
+shiva.color62: #375375
+shiva.color63: #37f37f
+shiva.color64: #389389
+shiva.color65: #393393
+shiva.color66: #39d39d
+shiva.color67: #3a73a7
+shiva.color68: #3b13b1
+shiva.color69: #3bb3bb
+shiva.color70: #3c53c5
+shiva.color71: #3cf3cf
+shiva.color72: #3d93d9
+shiva.color73: #3e33e3
+shiva.color74: #3ed3ed
+shiva.color75: #3f73f7
+shiva.color76: #401401
+shiva.color77: #40b40b
+shiva.color78: #415415
+shiva.color79: #41f41f
+shiva.color80: #429429
+shiva.color81: #433433
+shiva.color82: #43d43d
+shiva.color83: #447447
+shiva.color84: #451451
+shiva.color85: #45b45b
+shiva.color86: #465465
+shiva.color87: #46f46f
+shiva.color88: #479479
+shiva.color89: #483483
+shiva.color90: #48d48d
+shiva.color91: #497497
+shiva.color92: #4a14a1
+shiva.color93: #4ab4ab
+shiva.color94: #4b54b5
+shiva.color95: #4bf4bf
+shiva.color96: #4c94c9
+shiva.color97: #4d34d3
+shiva.color98: #4dd4dd
+shiva.color99: #4e74e7
+shiva.color100: #4f14f1
+shiva.color101: #4fb4fb
+shiva.color102: #505505
+shiva.color103: #50f50f
+shiva.color104: #519519
+shiva.color105: #523523
+shiva.color106: #52d52d
+shiva.color107: #537537
+shiva.color108: #541541
+shiva.color109: #54b54b
+shiva.color110: #555555
+shiva.color111: #55f55f
+shiva.color112: #569569
+shiva.color113: #573573
+shiva.color114: #57d57d
+shiva.color115: #587587
+shiva.color116: #591591
+shiva.color117: #59b59b
+shiva.color118: #5a55a5
+shiva.color119: #5af5af
+shiva.color120: #5b95b9
+shiva.color121: #5c35c3
+shiva.color122: #5cd5cd
+shiva.color123: #5d75d7
+shiva.color124: #5e15e1
+shiva.color125: #5eb5eb
+shiva.color126: #5f55f5
+shiva.color127: #5ff5ff
+shiva.color128: #609609
+shiva.color129: #613613
+shiva.color130: #61d61d
+shiva.color131: #627627
+shiva.color132: #631631
+shiva.color133: #63b63b
+shiva.color134: #645645
+shiva.color135: #64f64f
+shiva.color136: #659659
+shiva.color137: #663663
+shiva.color138: #66d66d
+shiva.color139: #677677
+shiva.color140: #681681
+shiva.color141: #68b68b
+shiva.color142: #695695
+shiva.color143: #69f69f
+shiva.color144: #6a96a9
+shiva.color145: #6b36b3
+shiva.color146: #6bd6bd
+shiva.color147: #6c76c7
+shiva.color148: #6d16d1
+shiva.color149: #6db6db
+shiva.color150: #6e56e5
+shiva.color151: #6ef6ef
+shiva.color152: #6f96f9
+shiva.color153: #703703
+shiva.color154: #70d70d
+shiva.color155: #717717
+shiva.color156: #721721
+shiva.color157: #72b72b
+shiva.color158: #735735
+shiva.color159: #73f73f
+shiva.color160: #749749
+shiva.color161: #753753
+shiva.color162: #75d75d
+shiva.color163: #767767
+shiva.color164: #771771
+shiva.color165: #77b77b
+shiva.color166: #785785
+shiva.color167: #78f78f
+shiva.color168: #799799
+shiva.color169: #7a37a3
+shiva.color170: #7ad7ad
+shiva.color171: #7b77b7
+shiva.color172: #7c17c1
+shiva.color173: #7cb7cb
+shiva.color174: #7d57d5
+shiva.color175: #7df7df
+shiva.color176: #7e97e9
+shiva.color177: #7f37f3
+shiva.color178: #7fd7fd
+shiva.color179: #807807
+shiva.color180: #811811
+shiva.color181: #81b81b
+shiva.color182: #825825
+shiva.color183: #82f82f
+shiva.color184: #839839
+shiva.color185: #843843
+shiva.color186: #84d84d
+shiva.color187: #857857
+shiva.color188: #861861
+shiva.color189: #86b86b
+shiva.color190: #875875
+shiva.color191: #87f87f
+shiva.color192: #889889
+shiva.color193: #893893
+shiva.color194: #89d89d
+shiva.color195: #8a78a7
+shiva.color196: #8b18b1
+shiva.color197: #8bb8bb
+shiva.color198: #8c58c5
+shiva.color199: #8cf8cf
+shiva.color200: #8d98d9
+shiva.color201: #8e38e3
+shiva.color202: #8ed8ed
+shiva.color203: #8f78f7
+shiva.color204: #901901
+shiva.color205: #90b90b
+shiva.color206: #915915
+shiva.color207: #91f91f
+shiva.color208: #929929
+shiva.color209: #933933
+shiva.color210: #93d93d
+shiva.color211: #947947
+shiva.color212: #951951
+shiva.color213: #95b95b
+shiva.color214: #965965
+shiva.color215: #96f96f
+shiva.color216: #979979
+shiva.color217: #983983
+shiva.color218: #98d98d
+shiva.color219: #997997
+shiva.color220: #9a19a1
+shiva.color221: #9ab9ab
+shiva.color222: #9b59b5
+shiva.color223: #9bf9bf
+shiva.color224: #9c99c9
+shiva.color225: #9d39d3
+shiva.color226: #9dd9dd
+shiva.color227: #9e79e7
+shiva.color228: #9f19f1
+shiva.color229: #9fb9fb
+shiva.color230: #a05a05
+shiva.color231: #a0fa0f
+shiva.color232: #080808
+shiva.color233: #a23a23
+shiva.color234: #a2da2d
+shiva.color235: #a37a37
+shiva.color236: #a41a41
+shiva.color237: #a4ba4b
+shiva.color238: #a55a55
+shiva.color239: #a5fa5f
+shiva.color240: #a69a69
+shiva.color241: #a73a73
+shiva.color242: #a7da7d
+shiva.color243: #a87a87
+shiva.color244: #a91a91
+shiva.color245: #a9ba9b
+shiva.color246: #aa5aa5
+shiva.color247: #aafaaf
+shiva.color248: #ab9ab9
+shiva.color249: #ac3ac3
+shiva.color250: #acdacd
+shiva.color251: #ad7ad7
+shiva.color252: #ae1ae1
+shiva.color253: #aebaeb
+shiva.color254: #af5af5
+shiva.color255: #affaff
+
+-------------------------
+
+!Random selection
+shiva.color0: #000000
+shiva.color1: #880f10
+shiva.color2: #90c43e
+shiva.color3: #74ffd2
+shiva.color4: #9d6487
+shiva.color5: #43cbf1
+shiva.color6: #8fad70
+shiva.color7: #e5e5e5
+shiva.color8: #94a1ab
+shiva.color9: #b510da
+shiva.color10: #cab710
+shiva.color11: #991035
+shiva.color12: #a6766a
+shiva.color13: #244950
+shiva.color14: #cb6410
+shiva.color15: #ffffff
+shiva.color16: #1aa4c4
+shiva.color17: #97e098
+shiva.color18: #28b0f6
+shiva.color19: #ebcb80
+shiva.color20: #40cec3
+shiva.color21: #4a77d7
+shiva.color22: #51f8ef
+shiva.color23: #4b53e1
+shiva.color24: #90c97b
+shiva.color25: #61bd30
+shiva.color26: #ec86f9
+shiva.color27: #b5a62c
+shiva.color28: #346323
+shiva.color29: #2d6416
+shiva.color30: #9bbd9a
+shiva.color31: #b0d037
+shiva.color32: #c77b16
+shiva.color33: #6d2b8b
+shiva.color34: #ae70f5
+shiva.color35: #3223dc
+shiva.color36: #d85ec4
+shiva.color37: #155f2a
+shiva.color38: #7ead9c
+shiva.color39: #4e5f9d
+shiva.color40: #8abb4d
+shiva.color41: #32b80f
+shiva.color42: #3ae92e
+shiva.color43: #106857
+shiva.color44: #a0f6b5
+shiva.color45: #d881f0
+shiva.color46: #caab90
+shiva.color47: #9a1c12
+shiva.color48: #6637e2
+shiva.color49: #f11008
+shiva.color50: #79509c
+shiva.color51: #107a51
+shiva.color52: #256810
+shiva.color53: #5df46f
+shiva.color54: #d988b1
+shiva.color55: #4d1047
+shiva.color56: #f1adb3
+shiva.color57: #f7fbdf
+shiva.color58: #8de2d3
+shiva.color59: #c461fe
+shiva.color60: #548b4c
+shiva.color61: #9b3bda
+shiva.color62: #a8fb29
+shiva.color63: #84cbf9
+shiva.color64: #1f26b6
+shiva.color65: #1c159f
+shiva.color66: #c2ad98
+shiva.color67: #8c1626
+shiva.color68: #8efa22
+shiva.color69: #739513
+shiva.color70: #372646
+shiva.color71: #734f14
+shiva.color72: #107321
+shiva.color73: #379323
+shiva.color74: #d7a972
+shiva.color75: #7fd8c8
+shiva.color76: #96f4e1
+shiva.color77: #b732d8
+shiva.color78: #c5c2c6
+shiva.color79: #0cc31d
+shiva.color80: #d70b93
+shiva.color81: #36bc2c
+shiva.color82: #61664a
+shiva.color83: #488351
+shiva.color84: #f07989
+shiva.color85: #a828fe
+shiva.color86: #8e9bf3
+shiva.color87: #fd107a
+shiva.color88: #10c03f
+shiva.color89: #b68d20
+shiva.color90: #e57f0a
+shiva.color91: #a1ec27
+shiva.color92: #adbd61
+shiva.color93: #3f4bf8
+shiva.color94: #6ef5b6
+shiva.color95: #ffff8b
+shiva.color96: #f5f882
+shiva.color97: #474a24
+shiva.color98: #846139
+shiva.color99: #88ae82
+shiva.color100: #da52f1
+shiva.color101: #d37ee1
+shiva.color102: #dadfc8
+shiva.color103: #4531d8
+shiva.color104: #d0edca
+shiva.color105: #bbf112
+shiva.color106: #cf103d
+shiva.color107: #284c92
+shiva.color108: #a396f6
+shiva.color109: #d8dcc4
+shiva.color110: #55d2f7
+shiva.color111: #0aee3e
+shiva.color112: #f91910
+shiva.color113: #71772c
+shiva.color114: #8c9336
+shiva.color115: #ff7f9e
+shiva.color116: #d3e43f
+shiva.color117: #d5fd93
+shiva.color118: #599010
+shiva.color119: #bdfc35
+shiva.color120: #bb0ee7
+shiva.color121: #f9108c
+shiva.color122: #e491d9
+shiva.color123: #a9a06f
+shiva.color124: #b21074
+shiva.color125: #38b964
+shiva.color126: #94a5c7
+shiva.color127: #3b7590
+shiva.color128: #e25b94
+shiva.color129: #27a9ab
+shiva.color130: #8e28ee
+shiva.color131: #bf51e3
+shiva.color132: #46e07c
+shiva.color133: #0d34ed
+shiva.color134: #e5c528
+shiva.color135: #a84640
+shiva.color136: #5c161d
+shiva.color137: #317389
+shiva.color138: #2b7518
+shiva.color139: #e86759
+shiva.color140: #b9f26f
+shiva.color141: #708b29
+shiva.color142: #6ae166
+shiva.color143: #275e9e
+shiva.color144: #87cc32
+shiva.color145: #903ee3
+shiva.color146: #25c6f7
+shiva.color147: #fe5271
+shiva.color148: #2ccd55
+shiva.color149: #1f4dfa
+shiva.color150: #80de2f
+shiva.color151: #723e42
+shiva.color152: #bfd612
+shiva.color153: #e6c22c
+shiva.color154: #cc1045
+shiva.color155: #682394
+shiva.color156: #648150
+shiva.color157: #89eb61
+shiva.color158: #578469
+shiva.color159: #c55061
+shiva.color160: #6018ea
+shiva.color161: #7b4197
+shiva.color162: #a00abd
+shiva.color163: #3e44ad
+shiva.color164: #ab6afc
+shiva.color165: #888970
+shiva.color166: #41a63b
+shiva.color167: #e8c886
+shiva.color168: #f91093
+shiva.color169: #c3a2fa
+shiva.color170: #104de4
+shiva.color171: #e2efb1
+shiva.color172: #e3830c
+shiva.color173: #106198
+shiva.color174: #8e4779
+shiva.color175: #5aa997
+shiva.color176: #558eba
+shiva.color177: #a914f0
+shiva.color178: #abb4c2
+shiva.color179: #ba66b0
+shiva.color180: #25138a
+shiva.color181: #d43ac0
+shiva.color182: #4929de
+shiva.color183: #b2b134
+shiva.color184: #0dcc76
+shiva.color185: #8fcb27
+shiva.color186: #69e44a
+shiva.color187: #7da796
+shiva.color188: #456a0f
+shiva.color189: #4d6657
+shiva.color190: #ca1463
+shiva.color191: #fbcead
+shiva.color192: #a67a1d
+shiva.color193: #6d1018
+shiva.color194: #f92219
+shiva.color195: #485410
+shiva.color196: #7d6b38
+shiva.color197: #7ce739
+shiva.color198: #61109c
+shiva.color199: #dbd039
+shiva.color200: #cd5bfb
+shiva.color201: #c33560
+shiva.color202: #a8bb58
+shiva.color203: #24466c
+shiva.color204: #e0542a
+shiva.color205: #108c28
+shiva.color206: #0bb0d3
+shiva.color207: #85c754
+shiva.color208: #f2d762
+shiva.color209: #d5cce2
+shiva.color210: #a60d12
+shiva.color211: #103107
+shiva.color212: #8bf5f9
+shiva.color213: #b683fd
+shiva.color214: #6c43ac
+shiva.color215: #3ba5ef
+shiva.color216: #794640
+shiva.color217: #205df4
+shiva.color218: #105d0b
+shiva.color219: #773125
+shiva.color220: #67d725
+shiva.color221: #2795c3
+shiva.color222: #c3b01b
+shiva.color223: #13436f
+shiva.color224: #f59d6a
+shiva.color225: #d5a0a4
+shiva.color226: #3fb482
+shiva.color227: #6b6fb6
+shiva.color228: #105536
+shiva.color229: #c8f6dd
+shiva.color230: #dda857
+shiva.color231: #121661
+shiva.color232: #080808
+shiva.color233: #e78124
+shiva.color234: #3c3c1c
+shiva.color235: #0e7ca5
+shiva.color236: #7f8738
+shiva.color237: #8c1892
+shiva.color238: #7712e2
+shiva.color239: #57547b
+shiva.color240: #872883
+shiva.color241: #3cf569
+shiva.color242: #afd91d
+shiva.color243: #d93580
+shiva.color244: #505ce1
+shiva.color245: #a25348
+shiva.color246: #bd7daf
+shiva.color247: #355361
+shiva.color248: #96ae0c
+shiva.color249: #823065
+shiva.color250: #96107e
+shiva.color251: #2a69b1
+shiva.color252: #104622
+shiva.color253: #5addb3
+shiva.color254: #e416a2
+shiva.color255: #4981b2
+
+-------------------------
+
+!Trapd00r correct ansi
+/* black */
+shiva.color0: #161616 /* irssi */
+shiva.color8: #808080
+
+/* red */
+shiva.color1: #872626
+shiva.color9: #b81515
+
+/* green */
+shiva.color2:  #3d8726
+shiva.color10: #2cb815
+
+/* yellow */
+shiva.color3:  #877d26
+shiva.color11: #b8b115
+
+/* blue */
+shiva.color4:  #265387
+shiva.color12: #1548d8
+
+/* magenta */
+shiva.color5:  #87264a
+shiva.color13: #b8154d
+
+/* cyan */
+shiva.color6:  #26876c
+shiva.color14: #15b88e
+
+/* white */
+shiva.color7:  #909090
+shiva.color15: #e1dfdf
+
+shiva.color16: #000000
+shiva.color17: #00005f
+shiva.color18: #000087
+shiva.color19: #0000af
+shiva.color20: #0000d7
+shiva.color21: #0000ff
+shiva.color22: #005f00
+shiva.color23: #005f5f
+shiva.color24: #005f87
+shiva.color25: #005faf
+shiva.color26: #005fd7
+shiva.color27: #005fff
+shiva.color28: #008700
+shiva.color29: #00875f
+shiva.color30: #008787
+shiva.color31: #0087af
+shiva.color32: #0087d7
+shiva.color33: #0087ff
+shiva.color34: #00af00
+shiva.color35: #00af5f
+shiva.color36: #00af87
+shiva.color37: #00afaf
+shiva.color38: #00afd7
+shiva.color39: #00afff
+shiva.color40: #00d700
+
+shiva.color41: #00d75f
+shiva.color42: #00d787
+shiva.color43: #00d7af
+shiva.color44: #00d7d7
+shiva.color45: #00d7ff
+shiva.color46: #00ff00
+shiva.color47: #00ff5f
+shiva.color48: #00ff87
+shiva.color49: #00ffaf
+shiva.color50: #00ffd7
+shiva.color51: #00ffff
+shiva.color52: #5f0000
+shiva.color53: #5f005f
+shiva.color54: #5f0087
+shiva.color55: #5f00af
+shiva.color56: #5f00d7
+shiva.color57: #5f00ff
+shiva.color58: #5f5f00
+shiva.color59: #5f5f5f
+shiva.color60: #5f5f87
+shiva.color61: #5f5faf
+shiva.color62: #5f5fd7
+shiva.color63: #5f5fff
+shiva.color64: #5f8700
+shiva.color65: #5f875f
+shiva.color66: #5f8787
+shiva.color67: #5f87af
+shiva.color68: #5f87d7
+shiva.color69: #5f87ff
+shiva.color70: #5faf00
+shiva.color71: #5faf5f
+shiva.color72: #5faf87
+shiva.color73: #5fafaf
+shiva.color74: #5fafd7
+shiva.color75: #5fafff
+shiva.color76: #5fd700
+shiva.color77: #5fd75f
+shiva.color78: #5fd787
+shiva.color79: #5fd7af
+shiva.color80: #5fd7d7
+shiva.color81: #5fd7ff
+shiva.color82: #5fff00
+shiva.color83: #5fff5f
+shiva.color84: #5fff87
+
+
+/* start mutt */
+shiva.color85: #fc3a0a /* indicator */
+shiva.color86: #565944 /* old */
+shiva.color87: #594459 /* deleted */
+shiva.color88: #009bff /* new */
+/* end mutt */
+
+shiva.color89: #87005f
+shiva.color90: #870087
+shiva.color91: #8700af
+shiva.color92: #8700d7
+shiva.color93: #8700ff
+shiva.color94: #875f00
+shiva.color95: #875f5f
+U1Rxvt.shiva.color96: #875f87
+shiva.color97: #875faf
+shiva.color98: #875fd7
+shiva.color99: #875fff
+shiva.color100: #878700
+shiva.color101: #87875f
+shiva.color102: #878787
+shiva.color103: #8787af
+shiva.color104: #8787d7
+shiva.color105: #8787ff
+shiva.color106: #87af00
+shiva.color107: #87af5f
+shiva.color108: #87af87
+shiva.color109: #87afaf
+shiva.color110: #87afd7
+shiva.color111: #87afff
+shiva.color112: #87d700
+shiva.color113: #87d75f
+shiva.color114: #87d787
+shiva.color115: #87d7af
+shiva.color116: #87d7d7
+shiva.color117: #87d7ff
+shiva.color118: #87ff00
+shiva.color119: #87ff5f
+shiva.color120: #87ff87
+shiva.color121: #87ffaf
+shiva.color122: #87ffd7
+shiva.color123: #87ffff
+shiva.color124: #af0000
+shiva.color125: #af005f
+shiva.color126: #af0087
+UR1xvt.shiva.color127: #af00af
+shiva.color128: #af00d7
+shiva.color129: #af00ff
+shiva.color130: #af5f00
+shiva.color131: #af5f5f
+shiva.color132: #af5f87
+shiva.color133: #af5faf
+shiva.color134: #af5fd7
+shiva.color135: #af5fff
+shiva.color136: #af8700
+shiva.color137: #af875f
+shiva.color138: #af8787
+shiva.color139: #af87af
+shiva.color140: #af87d7
+shiva.color141: #af87ff
+shiva.color142: #afaf00
+shiva.color143: #afaf5f
+shiva.color144: #afaf87
+shiva.color145: #afafaf
+shiva.color146: #afafd7
+shiva.color147: #afafff
+shiva.color148: #afd700
+shiva.color149: #afd75f
+shiva.color150: #afd787
+shiva.color151: #afd7af
+shiva.color152: #afd7d7
+shiva.color153: #afd7ff
+shiva.color154: #afff00
+shiva.color155: #afff5f
+shiva.color156: #afff87
+shiva.color157: #afffaf
+shiva.color158: #afffd7
+shiva.color159: #afffff
+shiva.color160: #d70000
+shiva.color161: #d7005f
+shiva.color162: #d70087
+shiva.color163: #d700af
+shiva.color164: #d700d7
+shiva.color165: #d700ff
+shiva.color166: #d75f00
+shiva.color167: #d75f5f
+shiva.color168: #d75f87
+shiva.color169: #d75faf
+shiva.color170: #d75fd7
+shiva.color171: #d75fff
+shiva.color172: #d78700
+shiva.color173: #d7875f
+shiva.color174: #d78787
+shiva.color175: #d787af
+shiva.color176: #d787d7
+shiva.color177: #d787ff
+shiva.color178: #d7af00
+shiva.color179: #d7af5f
+shiva.color180: #d7af87
+shiva.color181: #d7afaf
+shiva.color182: #d7afd7
+shiva.color183: #d7afff
+shiva.color184: #d7d700
+! start mutt
+shiva.color185: #ffff00 
+shiva.color186: #d7d787
+shiva.color187: #d7d7af
+shiva.color188: #d7d7d7
+shiva.color189: #d7d7ff
+shiva.color190: #d7ff00
+shiva.color191: #d7ff5f
+shiva.color192: #d7ff87
+shiva.color193: #d7ffaf
+shiva.color194: #d7ffd7
+shiva.color195: #d7ffff
+shiva.color196: #ff0000
+shiva.color197: #ff005f
+shiva.color198: #ff0087
+shiva.color199: #ff00af
+shiva.color200: #ff00d7
+shiva.color201: #ff00ff
+shiva.color202: #ff5f00
+shiva.color203: #ff5f5f
+shiva.color204: #ff5f87
+shiva.color205: #ff5faf
+shiva.color206: #ff5fd7
+shiva.color207: #ff5fff
+shiva.color208: #ff8700
+shiva.color209: #ff875f
+shiva.color210: #ff8787
+shiva.color211: #ff87af
+shiva.color212: #ff87d7
+shiva.color213: #ff87ff
+shiva.color214: #ffaf00
+shiva.color215: #ffaf5f
+shiva.color216: #ffaf87
+shiva.color217: #ffafaf
+shiva.color218: #ffafd7
+shiva.color219: #ffafff
+shiva.color220: #ffd700
+shiva.color221: #ffd75f
+shiva.color222: #ffd787
+shiva.color223: #ffd7af
+shiva.color224: #ffd7d7
+shiva.color225: #ffd7ff
+shiva.color226: #ffff00
+shiva.color227: #ffff5f
+shiva.color228: #ffff87
+shiva.color229: #ffffaf
+shiva.color230: #ffffd7
+shiva.color231: #ffffff
+shiva.color232: #080808
+shiva.color233: #121212
+shiva.color234: #1c1c1c
+shiva.color235: #262626
+shiva.color236: #303030
+shiva.color237: #3a3a3a
+shiva.color238: #444444
+shiva.color239: #4e4e4e
+shiva.color240: #585858
+shiva.color241: #626262
+shiva.color242: #6c6c6c
+shiva.color243: #767676
+shiva.color244: #808080
+shiva.color245: #8a8a8a
+shiva.color246: #949494
+shiva.color247: #9e9e9e
+shiva.color248: #a8a8a8
+shiva.color249: #b2b2b2
+shiva.color250: #bcbcbc
+shiva.color251: #c6c6c6
+shiva.color252: #d0d0d0
+shiva.color253: #dadada
+shiva.color254: #e4e4e4
+
+-------------------------
+
+!Trapdoor default
+shiva.color0: #121212
+shiva.color1: #262626
+shiva.color2: #4d4c4c
+shiva.color3: #ff8f00
+shiva.color4: #1165e9
+shiva.color5: #89005a
+shiva.color6: #ff3500
+shiva.color7: #ffffff
+shiva.color8: #484848
+shiva.color9: #ff6767
+shiva.color10: #b03b31
+shiva.color11: #bdf13d
+shiva.color12: #5496ff
+shiva.color13: #b50077
+shiva.color14: #6be603
+shiva.color15: #dedede
+shiva.color16: #000000
+shiva.color17: #00005f
+shiva.color18: #000087
+shiva.color19: #0000af
+shiva.color20: #0000d7
+shiva.color21: #0000ff
+shiva.color22: #005f00
+shiva.color23: #005f5f
+shiva.color24: #005f87
+shiva.color25: #005faf
+shiva.color26: #005fd7
+shiva.color27: #005fff
+shiva.color28: #008700
+shiva.color29: #00875f
+shiva.color30: #008787
+shiva.color31: #0087af
+shiva.color32: #0087d7
+shiva.color33: #0087ff
+shiva.color34: #00af00
+shiva.color35: #00af5f
+shiva.color36: #00af87
+shiva.color37: #00afaf
+shiva.color38: #00afd7
+shiva.color39: #00afff
+shiva.color40: #00d700
+shiva.color41: #00d75f
+shiva.color42: #00d787
+shiva.color43: #00d7af
+shiva.color44: #00d7d7
+shiva.color45: #00d7ff
+shiva.color46: #00ff00
+shiva.color47: #00ff5f
+shiva.color48: #00ff87
+shiva.color49: #00ffaf
+shiva.color50: #00ffd7
+shiva.color51: #00ffff
+shiva.color52: #5f0000
+shiva.color53: #5f005f
+shiva.color54: #5f0087
+shiva.color55: #5f00af
+shiva.color56: #5f00d7
+shiva.color57: #5f00ff
+shiva.color58: #5f5f00
+shiva.color59: #5f5f5f
+shiva.color60: #5f5f87
+shiva.color61: #5f5faf
+shiva.color62: #5f5fd7
+shiva.color63: #5f5fff
+shiva.color64: #5f8700
+shiva.color65: #5f875f
+shiva.color66: #5f8787
+shiva.color67: #5f87af
+shiva.color68: #5f87d7
+shiva.color69: #5f87ff
+shiva.color70: #5faf00
+shiva.color71: #5faf5f
+shiva.color72: #5faf87
+shiva.color73: #5fafaf
+shiva.color74: #5fafd7
+shiva.color75: #5fafff
+shiva.color76: #5fd700
+shiva.color77: #5fd75f
+shiva.color78: #5fd787
+shiva.color79: #5fd7af
+shiva.color80: #5fd7d7
+shiva.color81: #5fd7ff
+shiva.color82: #5fff00
+shiva.color83: #5fff5f
+shiva.color84: #5fff87
+shiva.color85: #5fffaf
+shiva.color86: #5fffd7
+shiva.color87: #5fffff
+shiva.color88: #870000
+shiva.color89: #87005f
+shiva.color90: #870087
+shiva.color91: #8700af
+shiva.color92: #8700d7
+shiva.color93: #8700ff
+shiva.color94: #875f00
+shiva.color95: #875f5f
+shiva.color96: #875f87
+shiva.color97: #875faf
+shiva.color98: #875fd7
+shiva.color99: #875fff
+shiva.color100: #878700
+shiva.color101: #87875f
+shiva.color102: #878787
+shiva.color103: #8787af
+shiva.color104: #8787d7
+shiva.color105: #8787ff
+shiva.color106: #87af00
+shiva.color107: #87af5f
+shiva.color108: #87af87
+shiva.color109: #87afaf
+shiva.color110: #87afd7
+shiva.color111: #87afff
+shiva.color112: #87d700
+shiva.color113: #87d75f
+shiva.color114: #87d787
+shiva.color115: #87d7af
+shiva.color116: #87d7d7
+shiva.color117: #87d7ff
+shiva.color118: #87ff00
+shiva.color119: #87ff5f
+shiva.color120: #87ff87
+shiva.color121: #87ffaf
+shiva.color122: #87ffd7
+shiva.color123: #87ffff
+shiva.color124: #af0000
+shiva.color125: #af005f
+shiva.color126: #af0087
+shiva.color127: #af00af
+shiva.color128: #af00d7
+shiva.color129: #af00ff
+shiva.color130: #af5f00
+shiva.color131: #af5f5f
+shiva.color132: #af5f87
+shiva.color133: #af5faf
+shiva.color134: #af5fd7
+shiva.color135: #af5fff
+shiva.color136: #af8700
+shiva.color137: #af875f
+shiva.color138: #af8787
+shiva.color139: #af87af
+shiva.color140: #af87d7
+shiva.color141: #af87ff
+shiva.color142: #afaf00
+shiva.color143: #afaf5f
+shiva.color144: #afaf87
+shiva.color145: #afafaf
+shiva.color146: #afafd7
+shiva.color147: #afafff
+shiva.color148: #afd700
+shiva.color149: #afd75f
+shiva.color150: #afd787
+shiva.color151: #afd7af
+shiva.color152: #afd7d7
+shiva.color153: #afd7ff
+shiva.color154: #afff00
+shiva.color155: #afff5f
+shiva.color156: #afff87
+shiva.color157: #afffaf
+shiva.color158: #afffd7
+shiva.color159: #afffff
+shiva.color160: #d70000
+shiva.color161: #d7005f
+shiva.color162: #d70087
+shiva.color163: #d700af
+shiva.color164: #d700d7
+shiva.color165: #d700ff
+shiva.color166: #d75f00
+shiva.color167: #d75f5f
+shiva.color168: #d75f87
+shiva.color169: #d75faf
+shiva.color170: #d75fd7
+shiva.color171: #d75fff
+shiva.color172: #d78700
+shiva.color173: #d7875f
+shiva.color174: #d78787
+shiva.color175: #d787af
+shiva.color176: #d787d7
+shiva.color177: #d787ff
+shiva.color178: #d7af00
+shiva.color179: #d7af5f
+shiva.color180: #d7af87
+shiva.color181: #d7afaf
+shiva.color182: #d7afd7
+shiva.color183: #d7afff
+shiva.color184: #d7d700
+shiva.color185: #d7d75f
+shiva.color186: #d7d787
+shiva.color187: #d7d7af
+shiva.color188: #d7d7d7
+shiva.color189: #d7d7ff
+shiva.color190: #d7ff00
+shiva.color191: #d7ff5f
+shiva.color192: #d7ff87
+shiva.color193: #d7ffaf
+shiva.color194: #d7ffd7
+shiva.color195: #d7ffff
+shiva.color196: #ff0000
+shiva.color197: #ff005f
+shiva.color198: #ff0087
+shiva.color199: #ff00af
+shiva.color200: #ff00d7
+shiva.color201: #ff00ff
+shiva.color202: #ff5f00
+shiva.color203: #ff5f5f
+shiva.color204: #ff5f87
+shiva.color205: #ff5faf
+shiva.color206: #ff5fd7
+shiva.color207: #ff5fff
+shiva.color208: #ff8700
+shiva.color209: #ff875f
+shiva.color210: #ff8787
+shiva.color211: #ff87af
+shiva.color212: #ff87d7
+shiva.color213: #ff87ff
+shiva.color214: #ffaf00
+shiva.color215: #ffaf5f
+shiva.color216: #ffaf87
+shiva.color217: #ffafaf
+shiva.color218: #ffafd7
+shiva.color219: #ffafff
+shiva.color220: #ffd700
+shiva.color221: #ffd75f
+shiva.color222: #ffd787
+shiva.color223: #ffd7af
+shiva.color224: #ffd7d7
+shiva.color225: #ffd7ff
+shiva.color226: #ffff00
+shiva.color227: #ffff5f
+shiva.color228: #ffff87
+shiva.color229: #ffffaf
+shiva.color230: #ffffd7
+shiva.color231: #ffffff
+shiva.color232: #080808
+shiva.color233: #121212
+shiva.color234: #1c1c1c
+shiva.color235: #262626
+shiva.color236: #303030
+shiva.color237: #3a3a3a
+shiva.color238: #444444
+shiva.color239: #4e4e4e
+shiva.color240: #585858
+shiva.color241: #626262
+shiva.color242: #6c6c6c
+shiva.color243: #767676
+shiva.color244: #808080
+shiva.color245: #8a8a8a
+shiva.color246: #949494
+shiva.color247: #9e9e9e
+shiva.color248: #a8a8a8
+shiva.color249: #b2b2b2
+shiva.color250: #bcbcbc
+shiva.color251: #c6c6c6
+shiva.color252: #d0d0d0
+shiva.color253: #dadada
+shiva.color254: #e4e4e4
+shiva.color255: #eeeeee
+
+-------------------------
+
+!Trapd00r new
+shiva.color0: #121212
+shiva.color1: #404040
+shiva.color2: #4d4c4c
+shiva.color3: #ff8f00
+shiva.color4: #008787
+/*shiva.color4: #1165e9*/
+shiva.color5: #f73574
+shiva.color6: #ff3500
+shiva.color7: #ffffff
+shiva.color8: #484848
+shiva.color9: #ff6767
+shiva.color10: #b03b31
+
+shiva.color11: #bdf13d
+shiva.color12: #5496ff
+shiva.color13: #b50077
+shiva.color14: #6be603
+shiva.color15: #dedede
+
+shiva.color16: #000000
+shiva.color17: #00005f
+shiva.color18: #000087
+shiva.color19: #0000af
+shiva.color20: #0000d7
+shiva.color21: #0000ff
+shiva.color22: #005f00
+shiva.color23: #005f5f
+shiva.color24: #005f87
+shiva.color25: #005faf
+shiva.color26: #005fd7
+shiva.color27: #005fff
+shiva.color28: #008700
+shiva.color29: #00875f
+shiva.color30: #008787
+shiva.color31: #0087af
+shiva.color32: #0087d7
+shiva.color33: #0087ff
+shiva.color34: #00af00
+shiva.color35: #00af5f
+shiva.color36: #00af87
+shiva.color37: #00afaf
+shiva.color38: #00afd7
+shiva.color39: #00afff
+shiva.color40: #00d700
+
+shiva.color41: #00d75f
+shiva.color42: #00d787
+shiva.color43: #00d7af
+shiva.color44: #00d7d7
+shiva.color45: #00d7ff
+shiva.color46: #00ff00
+shiva.color47: #00ff5f
+shiva.color48: #00ff87
+shiva.color49: #00ffaf
+shiva.color50: #00ffd7
+shiva.color51: #00ffff
+shiva.color52: #5f0000
+shiva.color53: #5f005f
+shiva.color54: #5f0087
+shiva.color55: #5f00af
+shiva.color56: #5f00d7
+shiva.color57: #5f00ff
+shiva.color58: #5f5f00
+shiva.color59: #5f5f5f
+shiva.color60: #5f5f87
+shiva.color61: #5f5faf
+shiva.color62: #5f5fd7
+shiva.color63: #5f5fff
+shiva.color64: #5f8700
+shiva.color65: #5f875f
+shiva.color66: #5f8787
+shiva.color67: #5f87af
+shiva.color68: #5f87d7
+shiva.color69: #5f87ff
+shiva.color70: #5faf00
+shiva.color71: #5faf5f
+shiva.color72: #5faf87
+shiva.color73: #5fafaf
+shiva.color74: #5fafd7
+shiva.color75: #5fafff
+shiva.color76: #5fd700
+shiva.color77: #5fd75f
+shiva.color78: #5fd787
+shiva.color79: #5fd7af
+shiva.color80: #5fd7d7
+shiva.color81: #5fd7ff
+shiva.color82: #5fff00
+shiva.color83: #5fff5f
+shiva.color84: #5fff87
+
+
+/* start mutt */
+shiva.color85: #fc3a0a /* indicator */
+shiva.color86: #565944 /* old */
+shiva.color87: #594459 /* deleted */
+shiva.color88: #009bff /* new */
+/* end mutt */
+
+shiva.color89: #87005f
+shiva.color90: #870087
+shiva.color91: #8700af
+shiva.color92: #8700d7
+shiva.color93: #8700ff
+shiva.color94: #875f00
+shiva.color95: #875f5f
+U1Rxvt.shiva.color96: #875f87
+shiva.color97: #875faf
+shiva.color98: #875fd7
+shiva.color99: #875fff
+shiva.color100: #878700
+shiva.color101: #87875f
+shiva.color102: #878787
+shiva.color103: #8787af
+shiva.color104: #8787d7
+shiva.color105: #8787ff
+shiva.color106: #87af00
+shiva.color107: #87af5f
+shiva.color108: #87af87
+shiva.color109: #87afaf
+shiva.color110: #87afd7
+shiva.color111: #87afff
+shiva.color112: #87d700
+shiva.color113: #87d75f
+shiva.color114: #87d787
+shiva.color115: #87d7af
+shiva.color116: #87d7d7
+shiva.color117: #87d7ff
+shiva.color118: #87ff00
+shiva.color119: #87ff5f
+shiva.color120: #87ff87
+shiva.color121: #87ffaf
+shiva.color122: #87ffd7
+shiva.color123: #87ffff
+shiva.color124: #af0000
+shiva.color125: #af005f
+shiva.color126: #af0087
+UR1xvt.shiva.color127: #af00af
+shiva.color128: #af00d7
+shiva.color129: #af00ff
+shiva.color130: #af5f00
+shiva.color131: #af5f5f
+shiva.color132: #af5f87
+shiva.color133: #af5faf
+shiva.color134: #af5fd7
+shiva.color135: #af5fff
+shiva.color136: #af8700
+shiva.color137: #af875f
+shiva.color138: #af8787
+shiva.color139: #af87af
+shiva.color140: #af87d7
+shiva.color141: #af87ff
+shiva.color142: #afaf00
+shiva.color143: #afaf5f
+shiva.color144: #afaf87
+shiva.color145: #afafaf
+shiva.color146: #afafd7
+shiva.color147: #afafff
+shiva.color148: #afd700
+shiva.color149: #afd75f
+shiva.color150: #afd787
+shiva.color151: #afd7af
+shiva.color152: #afd7d7
+shiva.color153: #afd7ff
+shiva.color154: #afff00
+shiva.color155: #afff5f
+shiva.color156: #afff87
+shiva.color157: #afffaf
+shiva.color158: #afffd7
+shiva.color159: #afffff
+shiva.color160: #d70000
+shiva.color161: #d7005f
+shiva.color162: #d70087
+shiva.color163: #d700af
+shiva.color164: #d700d7
+shiva.color165: #d700ff
+shiva.color166: #d75f00
+shiva.color167: #d75f5f
+shiva.color168: #d75f87
+shiva.color169: #d75faf
+shiva.color170: #d75fd7
+shiva.color171: #d75fff
+shiva.color172: #d78700
+shiva.color173: #d7875f
+shiva.color174: #d78787
+shiva.color175: #d787af
+shiva.color176: #d787d7
+shiva.color177: #d787ff
+shiva.color178: #d7af00
+shiva.color179: #d7af5f
+shiva.color180: #d7af87
+shiva.color181: #d7afaf
+shiva.color182: #d7afd7
+shiva.color183: #d7afff
+shiva.color184: #d7d700
+! start mutt
+shiva.color185: #ffff00 
+shiva.color186: #d7d787
+shiva.color187: #d7d7af
+shiva.color188: #d7d7d7
+shiva.color189: #d7d7ff
+shiva.color190: #d7ff00
+shiva.color191: #d7ff5f
+shiva.color192: #d7ff87
+shiva.color193: #d7ffaf
+shiva.color194: #d7ffd7
+shiva.color195: #d7ffff
+shiva.color196: #ff0000
+shiva.color197: #ff005f
+shiva.color198: #ff0087
+shiva.color199: #ff00af
+shiva.color200: #ff00d7
+shiva.color201: #ff00ff
+shiva.color202: #ff5f00
+shiva.color203: #ff5f5f
+shiva.color204: #ff5f87
+shiva.color205: #ff5faf
+shiva.color206: #ff5fd7
+shiva.color207: #ff5fff
+shiva.color208: #ff8700
+shiva.color209: #ff875f
+shiva.color210: #ff8787
+shiva.color211: #ff87af
+shiva.color212: #ff87d7
+shiva.color213: #ff87ff
+shiva.color214: #ffaf00
+shiva.color215: #ffaf5f
+shiva.color216: #ffaf87
+shiva.color217: #ffafaf
+shiva.color218: #ffafd7
+shiva.color219: #ffafff
+shiva.color220: #ffd700
+shiva.color221: #ffd75f
+shiva.color222: #ffd787
+shiva.color223: #ffd7af
+shiva.color224: #ffd7d7
+shiva.color225: #ffd7ff
+shiva.color226: #ffff00
+shiva.color227: #ffff5f
+shiva.color228: #ffff87
+shiva.color229: #ffffaf
+shiva.color230: #ffffd7
+shiva.color231: #ffffff
+shiva.color232: #080808
+shiva.color233: #121212
+shiva.color234: #1c1c1c
+shiva.color235: #262626
+shiva.color236: #303030
+shiva.color237: #3a3a3a
+shiva.color238: #444444
+shiva.color239: #4e4e4e
+shiva.color240: #585858
+shiva.color241: #626262
+shiva.color242: #6c6c6c
+shiva.color243: #767676
+shiva.color244: #808080
+shiva.color245: #8a8a8a
+shiva.color246: #949494
+shiva.color247: #9e9e9e
+shiva.color248: #a8a8a8
+shiva.color249: #b2b2b2
+shiva.color250: #bcbcbc
+shiva.color251: #c6c6c6
+shiva.color252: #d0d0d0
+shiva.color253: #dadada
+shiva.color254: #e4e4e4
+
+-------------------------
+
+!Xterm default
+shiva.color0: #000000
+shiva.color1: #cd0000
+shiva.color2: #00cd00
+shiva.color3: #cdcd00
+shiva.color4: #0000cd
+shiva.color5: #cd00cd
+shiva.color6: #00cdcd
+shiva.color7: #e5e5e5
+shiva.color8: #4d4d4d
+shiva.color9: #ff0000
+shiva.color10: #00ff00
+shiva.color11: #ffff00
+shiva.color12: #0000ff
+shiva.color13: #ff00ff
+shiva.color14: #00ffff
+shiva.color15: #ffffff
+shiva.color16: #000000
+shiva.color17: #00005f
+shiva.color18: #000087
+shiva.color19: #0000af
+shiva.color20: #0000d7
+shiva.color21: #0000ff
+shiva.color22: #005f00
+shiva.color23: #005f5f
+shiva.color24: #005f87
+shiva.color25: #005faf
+shiva.color26: #005fd7
+shiva.color27: #005fff
+shiva.color28: #008700
+shiva.color29: #00875f
+shiva.color30: #008787
+shiva.color31: #0087af
+shiva.color32: #0087d7
+shiva.color33: #0087ff
+shiva.color34: #00af00
+shiva.color35: #00af5f
+shiva.color36: #00af87
+shiva.color37: #00afaf
+shiva.color38: #00afd7
+shiva.color39: #00afff
+shiva.color40: #00d700
+shiva.color41: #00d75f
+shiva.color42: #00d787
+shiva.color43: #00d7af
+shiva.color44: #00d7d7
+shiva.color45: #00d7ff
+shiva.color46: #00ff00
+shiva.color47: #00ff5f
+shiva.color48: #00ff87
+shiva.color49: #00ffaf
+shiva.color50: #00ffd7
+shiva.color51: #00ffff
+shiva.color52: #5f0000
+shiva.color53: #5f005f
+shiva.color54: #5f0087
+shiva.color55: #5f00af
+shiva.color56: #5f00d7
+shiva.color57: #5f00ff
+shiva.color58: #5f5f00
+shiva.color59: #5f5f5f
+shiva.color60: #5f5f87
+shiva.color61: #5f5faf
+shiva.color62: #5f5fd7
+shiva.color63: #5f5fff
+shiva.color64: #5f8700
+shiva.color65: #5f875f
+shiva.color66: #5f8787
+shiva.color67: #5f87af
+shiva.color68: #5f87d7
+shiva.color69: #5f87ff
+shiva.color70: #5faf00
+shiva.color71: #5faf5f
+shiva.color72: #5faf87
+shiva.color73: #5fafaf
+shiva.color74: #5fafd7
+shiva.color75: #5fafff
+shiva.color76: #5fd700
+shiva.color77: #5fd75f
+shiva.color78: #5fd787
+shiva.color79: #5fd7af
+shiva.color80: #5fd7d7
+shiva.color81: #5fd7ff
+shiva.color82: #5fff00
+shiva.color83: #5fff5f
+shiva.color84: #5fff87
+shiva.color85: #5fffaf
+shiva.color86: #5fffd7
+shiva.color87: #5fffff
+shiva.color88: #870000
+shiva.color89: #87005f
+shiva.color90: #870087
+shiva.color91: #8700af
+shiva.color92: #8700d7
+shiva.color93: #8700ff
+shiva.color94: #875f00
+shiva.color95: #875f5f
+shiva.color96: #875f87
+shiva.color97: #875faf
+shiva.color98: #875fd7
+shiva.color99: #875fff
+shiva.color100: #878700
+shiva.color101: #87875f
+shiva.color102: #878787
+shiva.color103: #8787af
+shiva.color104: #8787d7
+shiva.color105: #8787ff
+shiva.color106: #87af00
+shiva.color107: #87af5f
+shiva.color108: #87af87
+shiva.color109: #87afaf
+shiva.color110: #87afd7
+shiva.color111: #87afff
+shiva.color112: #87d700
+shiva.color113: #87d75f
+shiva.color114: #87d787
+shiva.color115: #87d7af
+shiva.color116: #87d7d7
+shiva.color117: #87d7ff
+shiva.color118: #87ff00
+shiva.color119: #87ff5f
+shiva.color120: #87ff87
+shiva.color121: #87ffaf
+shiva.color122: #87ffd7
+shiva.color123: #87ffff
+shiva.color124: #af0000
+shiva.color125: #af005f
+shiva.color126: #af0087
+shiva.color127: #af00af
+shiva.color128: #af00d7
+shiva.color129: #af00ff
+shiva.color130: #af5f00
+shiva.color131: #af5f5f
+shiva.color132: #af5f87
+shiva.color133: #af5faf
+shiva.color134: #af5fd7
+shiva.color135: #af5fff
+shiva.color136: #af8700
+shiva.color137: #af875f
+shiva.color138: #af8787
+shiva.color139: #af87af
+shiva.color140: #af87d7
+shiva.color141: #af87ff
+shiva.color142: #afaf00
+shiva.color143: #afaf5f
+shiva.color144: #afaf87
+shiva.color145: #afafaf
+shiva.color146: #afafd7
+shiva.color147: #afafff
+shiva.color148: #afd700
+shiva.color149: #afd75f
+shiva.color150: #afd787
+shiva.color151: #afd7af
+shiva.color152: #afd7d7
+shiva.color153: #afd7ff
+shiva.color154: #afff00
+shiva.color155: #afff5f
+shiva.color156: #afff87
+shiva.color157: #afffaf
+shiva.color158: #afffd7
+shiva.color159: #afffff
+shiva.color160: #d70000
+shiva.color161: #d7005f
+shiva.color162: #d70087
+shiva.color163: #d700af
+shiva.color164: #d700d7
+shiva.color165: #d700ff
+shiva.color166: #d75f00
+shiva.color167: #d75f5f
+shiva.color168: #d75f87
+shiva.color169: #d75faf
+shiva.color170: #d75fd7
+shiva.color171: #d75fff
+shiva.color172: #d78700
+shiva.color173: #d7875f
+shiva.color174: #d78787
+shiva.color175: #d787af
+shiva.color176: #d787d7
+shiva.color177: #d787ff
+shiva.color178: #d7af00
+shiva.color179: #d7af5f
+shiva.color180: #d7af87
+shiva.color181: #d7afaf
+shiva.color182: #d7afd7
+shiva.color183: #d7afff
+shiva.color184: #d7d700
+shiva.color185: #d7d75f
+shiva.color186: #d7d787
+shiva.color187: #d7d7af
+shiva.color188: #d7d7d7
+shiva.color189: #d7d7ff
+shiva.color190: #d7ff00
+shiva.color191: #d7ff5f
+shiva.color192: #d7ff87
+shiva.color193: #d7ffaf
+shiva.color194: #d7ffd7
+shiva.color195: #d7ffff
+shiva.color196: #ff0000
+shiva.color197: #ff005f
+shiva.color198: #ff0087
+shiva.color199: #ff00af
+shiva.color200: #ff00d7
+shiva.color201: #ff00ff
+shiva.color202: #ff5f00
+shiva.color203: #ff5f5f
+shiva.color204: #ff5f87
+shiva.color205: #ff5faf
+shiva.color206: #ff5fd7
+shiva.color207: #ff5fff
+shiva.color208: #ff8700
+shiva.color209: #ff875f
+shiva.color210: #ff8787
+shiva.color211: #ff87af
+shiva.color212: #ff87d7
+shiva.color213: #ff87ff
+shiva.color214: #ffaf00
+shiva.color215: #ffaf5f
+shiva.color216: #ffaf87
+shiva.color217: #ffafaf
+shiva.color218: #ffafd7
+shiva.color219: #ffafff
+shiva.color220: #ffd700
+shiva.color221: #ffd75f
+shiva.color222: #ffd787
+shiva.color223: #ffd7af
+shiva.color224: #ffd7d7
+shiva.color225: #ffd7ff
+shiva.color226: #ffff00
+shiva.color227: #ffff5f
+shiva.color228: #ffff87
+shiva.color229: #ffffaf
+shiva.color230: #ffffd7
+shiva.color231: #ffffff
+shiva.color232: #080808
+shiva.color233: #121212
+shiva.color234: #1c1c1c
+shiva.color235: #262626
+shiva.color236: #303030
+shiva.color237: #3a3a3a
+shiva.color238: #444444
+shiva.color239: #4e4e4e
+shiva.color240: #585858
+shiva.color241: #626262
+shiva.color242: #6c6c6c
+shiva.color243: #767676
+shiva.color244: #808080
+shiva.color245: #8a8a8a
+shiva.color246: #949494
+shiva.color247: #9e9e9e
+shiva.color248: #a8a8a8
+shiva.color249: #b2b2b2
+shiva.color250: #bcbcbc
+shiva.color251: #c6c6c6
+shiva.color252: #d0d0d0
+shiva.color253: #dadada
+shiva.color254: #e4e4e4
+shiva.color255: #eeeeee
