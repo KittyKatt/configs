@@ -1,7 +1,6 @@
 # configs
 
-These are KittyKatt's configs.
+Easily replicatable configs for my setup.
 
-- **mielikki** is my main desktop. It run Arch Linux and Windows 10.
-- **silvanus** is my home server. It runs various services, public and private.
-- **kossuth** is my laptop.
+- **mielikki** is my desktop. It runs Fedora Workstation 32 and Windows 10.
+- **kelemvor** is my laptop. It runs Fedora Workstation 32.
