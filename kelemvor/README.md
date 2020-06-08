@@ -1,4 +1,4 @@
-# mielikki
+# kelemvor
 
 Configs for laptop. Model is Inspiron 7375 (Inspiron 13 7000 Series 2-in-1). Running Fedora Workstation 32.
 
